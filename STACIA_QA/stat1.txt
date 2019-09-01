@@ -1,0 +1,147 @@
+E2|What is the highest rated polyrating professor for [Course]?|[Instructor] is the highest rated professor for [Course].
+E2|What is the highest rated polyrating professor that is currently teaching [Course]?|[Instructor] is the highest rated professor currently teaching [Course].
+E2|What is the highest rated polyrating professor that taught [Course] last quarter?|[Instructor] is the highest rated professor that taught [Course] last quarter.
+E2|What is the highest rated polyrating professor that is scheduled to teach [Course] next quarter?|[Instructor] is the highest rated professor that teaching [Course] next quarter.
+E2|What is the lowest rated polyrating professor for [Course]?|[Instructor] is the lowest rated professor for [Course].
+E2|What is the lowest rated polyrating professor that is currently teaching [Course]?|[Instructor] is the lowest rated professor currently teaching [Course].
+E2|What is the lowest rated polyrating professor that taught [Course] last quarter?|[Instructor] is the lowest rated professor that taught [Course] last quarter.
+E2|What is the lowest rated polyrating professor that is scheduled to teach [Course] next quarter?|[Instructor] is the lowest rated professor that teaching [Course] next quarter.
+E2|What statistics course has highest average polyratings score?|[Course] has the highest average polyratings score.
+E2|How many professors have at least a [Star] rating?|[N] professors have at least a [Star] rating.
+E2|Which professors have at least a [Star] rating?|[Instructors] have at least a [Star] rating. 
+E2|Which professors have a star rating under [Star]?|[Instructors] have a rating under [Star].
+E2|Which professor’s personal interests include [Interest]?|[Instructors] are interested in [Interest].
+E2|Which professors are interested in [Interest]?|[Instructors] are interested in [Interest].
+E2|Are there any professors interested in [Interest]?|[Instructors] are interested in [Interest].
+E2|What are [Instructor]’s personal interests?|[Instructor] is interested in [Interests].
+E2|How many professors’ personal interests include [Interest]?|[N] instructors are interested in [Interest].
+E2|Which professors have no personal interests?|[Instructors] have no personal interests.
+E2|How many professors have no personal interests?|[N] instructors have no personal interests.
+E2|Which professor’s professional distinctions include [Distinction]?|[Instructor]’s professional distinctions are [Distinctions]
+E2|What are [Instructor]’s professional distinctions?|[Instructor]’s professional distinctions are [Distinctions]
+E2|Which professor’s [Research Interests] include [Research Interests]?|[Instructor]’s research interests are [Research Interests]
+E2|What are [Instructor]’s [Research Interests]?|[Instructor]’s research interests are [Research Interests]
+E2|Where did [Instructor] get their BS?|[Instructor] recieved their BS at [Univesity].
+E2|Which school did [Instructor] get their BS at?|[Instructor] received their BS at [University].
+E2|Which school did [Instructor] get their Master’s at?|[Instructor] received their Master's at [University].
+E2|Where did [Instructor] get their Master’s?|[Instructor] received their Master's at [University].
+E2|Where did [Instructor] get their doctorate?|[Instructor] received their doctorate at [University].
+E2|Which school did [Instructor] get their doctorate at?|[Instructor] received their doctorate at [University].
+E2|When did [Instructor] get their BS?|[Instructor] received their BS on [Date].
+E2|What year did [Instructor] get their BS?|[Instructor] received their BS on [Date].
+E2|When did [Instructor] get their Master’s?|[Instructor] received their Master's on [Date].
+E2|What year did [Instructor] get their Master’s?|[Instructor] received their Master's on [Date].
+E2|When did [Instructor] get their doctorate?|[Instructor] received their doctorate on [Date].
+E2|What year did [Instructor] get their doctorate?|[Instructor] received their doctorate on [Date].
+E2|Which professor(s) attended [University]?|[Instructors] attended [University]. 
+E2|How many professors attended [University]?|[N] instructors attended [University].
+E2|Which professors have attended [University]?|[Instructors] attended [University].
+E2|How many professors have a doctorate?|[N] instructors have a doctorate.
+E2|What is [Instructor]’s title?|[Instructor] has the title of [Title].
+E2|What is the title of [Instructor]?|[Instructor] has the title of [Title].
+E2|What is the email of [Instructor]?|[Instructor]'s email is [Email].
+E2|Which professors have office hours in [Room]?|[Instructors] have office hours in [Room].
+E2|Who are the professors with office hours in [Room]?|[Instructors] have office hours in [Room].
+E2|What is [Instructor]’s phone number?|[Instructor]'s phone number is [Phone Number].
+E2|What is the phone number of [Instructor]?|[Instructor]'s phone number is [Phone Number].
+E2|Where is [Instructor]’s office?|[Instructor]'s office is in [Room].
+E2|What building is [Instructor]’s office in?|[Instructor]'s office is in [Building].
+E2|Which instructor’s email is [Email]?|[instructor]'s email is [Email].
+E2|Which instructor’s phone number is [Phone Number]?|[Instructor]'s phone number is [Phone Number].
+E2|Whose office is in [Room]?|[Instructor]'s office is in [Room]
+E2|How many professors teach [Course]?|[N] instructors teach [Course].
+E2|Which professors teach [Course]?|[Instructors] teach [Course].
+E2|What time does [Instructor] have office hours today?|[Instructor] has office hours at [Time].
+E2|What days does [Instructor] have office hours?|[Instructor] has office hours on [Weekdays].
+E2|How many professors have office hours on [Weekday]?|[N] instructors have office hours on [Weekday].
+E2|Which professor(s) have the earliest office hours?|[Instructor] has the earliest office hours.
+E2|Which professor(s) have the latest office hours?|[Instructor] has the latest office hours.
+E2|How many professors have office hours before [Time]?|[N] instructors have office hours before [Time].
+E2|How many professors have office hours after [Time]?|[N] professors have office hours after [Time].
+E2|How many professors’ Research Interests include [Research Interests]?|[N] professors have research interests include [Research Interests]. 
+E2|Which instructors do not have a web page in the directory?|[Instructors] do not have web pages in the directory.
+E2|How many statistics instructors are in the directory?| There are [N] STAT instructors in the directory.
+E2|What are the names of all the Instructors?| [Instructors].
+E2|Which professors have offices in building [Building]?|[Instructors] have offices in building [Building].
+E2|How many professors have offices in building [Building]?|[N] professors have offices in building [Building].
+E2|Which professors neighbor [Instructor]?|[Instructors] neighbor [Instructor].
+E2|How many professors neighbor [Instructor]?|[N] professors neighbor [Instructor].
+E2|Which professors are not teaching this quarter?|[Instructors] are not teaching this quarter.
+E2|Are there any professors not teaching this quarter?|[Boolean]
+E2|How many professors are not teaching this quarter?|[N] professors are not teaching this quarter. 
+E2|Which professor comes first in alphabetical order?|[Instructor] is the first professor alphabetically.
+E2|Which professor comes last in alphabetical order?|[Instructor] is the last professor alphabetically.
+E2|How many professors have office hours today?|[N] professors have office hours today.
+E2|Which professors have office hours today?|[Instructors] have office hours today.
+E2|Does [Instructor] have office hours on [Weekday]?|[Boolean].
+E2|Does [Instructor] have office hours today at [Time]?|[Boolean].
+E2|Which STAT faculty have office hours on [Weekday]?|[Instructors] all have office hours on [Weekday].
+E2|Which STAT faculty have office hours at [Time]?|[Instructors] have office hours at [Time].
+E2|How many professors don’t have office hours today?|[N] professors don't have office hours today.
+E2|Which professors don’t have office hours today?|[Instructors] don't have office hours today.
+E2|Who are the top [N] professors teaching [Course]?|[Instructors] are the top professors teaching [Course].
+E2|Which professor has been teaching the longest?|[Instructor] has been teaching the longest.
+E2|Which professor has been teaching the shortest?|[Instructor] has been teaching the shortest.
+E2|When will [Instructor] be at his/her office?|[Instructor] will be at their office at [Time].
+E2|Is [Instructor] at their office right now?|[Boolean].
+E2|How many classes is [Instructor] teaching this quarter?|[Instructor] is teaching [N] classes this quarter.
+E2|How many classes is [Instructor] teaching next quarter?|[Instructor] is teaching [N] classes next quarter.
+E2|What are the reviews for [Instructor] in [Course]?|[Instructor] has [Star] star rating for [Course].
+E2|How many professors share an office?|[N] professors share an office.
+E2|Which professors share an office?|[Instructors] share an office.
+E2|How many polyratings does [Instructor] have?|[Instructor] has [N] polyratings.
+E2|How many polyratings does [Instructor] have for [Course]?|[Instructor] has [N] polyratings for [Course].
+E2|Does [Instructor] recognize student difficulties?|[Boolean].
+E2|How well does [Instructor] recognize student difficulties?|[Instructor] recognizes student difficulties with a [Star] star rating.
+E2|Does [Instructor] present material clearly?|[Boolean].
+E2|How clearly does [Instructor] present material?|[Instructor] presents material with a [Star] star rating.
+E2|What grades has [Instructor] given out (on polylearn)?|[Instructor] has given out [Grades].
+E2|What is the average polyratings grade for [Instructor]?|[Instructor] has an average polyratings grade of [Grade].
+E2|What is the average polyratings grade for [Instructor] in [Course]?|[Instructor] has an average polyratings grade of [Grade] for [Course].
+E2|What professors are interested in [Interest]?|[Instructors] are interested in [Interest].
+E2|Are any professors interested in [Interest]?|[Boolean], [Instructors] are interested in [Interest].
+E2|What professor has the most professional distinctions?|[Instructor] has the most professional distinctions.
+E2|What professional distinctions does [Instructor] have?|[Instructor] has [Professional Distinctions].
+E2|Are there any instructors without a webpage?|[Boolean], [Instructors] don't have webpages.
+E2|Which professors don’t have webpages?|[Instructors] don't have webpages.
+E2|Is there a professor in building [Building] office [Room]?|[Boolean], [Instructor] is in office [Room] of building [Building].
+E2|What professors are researching [Topic]?|[Instructors] are researching [Topic].
+E2|Which professors typically teach [Level] level courses?|[Instructors] typically teach [Level] courses.
+E2|Which professors teach the highest level courses?|[Instructors] generally teach high level courses.
+E2|What professor(s) typically teach [Course]?|[Instructors] typically teach [Course].
+E2|How many professors have at least [Level] Star rating?|[N] professors have at least a [Star] star rating.
+E2|What professor(s) teach [Course] this quarter?|[Instructors] are teaching [Course] this quarter.
+E2|Is [Instructor] teaching [Course] next quarter?|[Boolean].
+E2|Which professors are teaching [Course] next quarter?|[Instructors] are teaching [Course] next quarter.
+E2|Who are the professors teaching [Course] next quarter?|[Instructors] are teaching [Course] next quarter.
+E2|Do any instructors research [Topic]?|[Boolean].
+E2|Which professors research [Topic]?|[Instructors] are researching [Topic].
+E2|Does [Instructor] have any areas of research?|[Instructor] is researching [Topic].
+E2|Which professors have research opportunities?|[Instructors] have research opportunities.
+
+[Building]: A valid building number at Cal Poly.
+[Course]: A Course in the STAT department.
+[Date]: A date in MM/DD/YYYY format.
+[Distinction]: A professional distinction.
+[Email]: A valid email address.
+[Instructor]: An instructor in the STAT department.
+[Instructors]: A list of [Instructor].
+[Interest]: A personal interest, like reading or photography. 
+[Interests]: A list of [Interest]
+[Level]: A level of classes, i.e. 100 level, 200 level, 300 level, etc.
+[N]: An integer.
+[Phone Number]: Valid phone number.
+[Research Interests]: A list of [Interest].
+[Room]: A building number and room number.
+[Star]: A floating point number between 0.0 and 5.0.
+[Title]: The title of an instructor, i.e. Lecturer, Assistant Professor, etx.
+[Topic]: A research Topic.
+[Time]: A valid HH:MM AM/PM time.
+[University]: The name of a university.
+[Weekday]: A valid day of the week.
+[Weekdays]: A list of [Weekday].
+[Boolean]: A boolean, either true or false.
+[Grade]: A letter grade.
+[Grades]: A list of [Grade].
+[Professional Distinction]: A professional distinction held by an instructor.
+[Professional Distinctions]: A list of [Professional Distinction].

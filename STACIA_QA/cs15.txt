@@ -1,0 +1,147 @@
+I2 | What STAT courses are offered during [TERM_YEAR range]? | STAT courses offered during [TERM_YEAR range]: [COURSE]*
+I2 | What STAT courses can I take during [TERM_YEAR range]? | STAT courses offered during [TERM_YEAR range]: [COURSE]*
+I2 | What STAT courses have [COURSE] as a prereq? | STAT courses requiring [COURSE]: [COURSE]*
+I2 | What courses do you need to take before taking [COURSE]? | STAT courses required before taking [COURSE]: [COURSE]*
+I2 | Does [COURSE] have any preqs? | Yes:/No. [COURSE]*
+I2 | Is [COURSE] being offered this quarter? | Yes/No
+I2 | Can I take [COURSE] this quarter? | Yes/No
+I2 | Do I need to take [COURSE] to major in Statistics? | What term did/will you become a Statistics major? (Ex: Winter 2019) -> [TERM_YEAR] -> Yes/No.
+I2 | Is [COURSE] necessary to get a stats degree? | What term did/will you become a Statistics major? (Ex: Winter 2019) -> [TERM_YEAR] -> Yes/No.
+I2 | Where can I find the stats curriculum? | This year’s stats curriculum can be found here: [LINK]. Other years can be found here: [LINK].
+I2 | Where can I find the stats flowchart? | This year’s stats flowchart can be found here: [LINK]. Other years can be found here: [LINK].
+I2 | When’s the next time I can take [COURSE]? | [COURSE] is expected to be offered during [TERM].
+I2 | Is [COURSE] being offered soon? | [COURSE] is expected to be offered during [TERM].
+I2 | Do stats majors have support electives? | Yes, stats majors are required to take [NUMBER] units of support electives.
+I2 | Where can I find info on support electives for stats? | [LINK]
+I2 | What courses should I take in order to change my major to Statistics? | [COURSE]*
+I2 | What are the minimum course requirements for changing into the stats major? | [COURSE]*
+I2 | What course is senior project for stats majors? | [COURSE]*
+I2 | How many quarters of senior project do stats majors take? | [NUMBER]
+I2 | Does [COURSE] help me get a stats minor? | Yes/No
+I2 | Does [COURSE] contribute to my stats minor? | Yes/No
+I2 | How many units do I need to take to get a stats minor? | A stats minor requires at most [NUMBER] additional units, but it is possible you have already satisfied some requirements.
+I2 | What [NUMBER] level courses are there in the stats department? | [COURSE]*
+I2 | Has [COURSE] ever been offered by the stats department? | Yes/No records of [COURSE] being offered exist after [YEAR].
+I2 | When has [COURSE] been offered? | [YEAR]*
+I2 | How many units is [COURSE]? | [NUMBER]
+I2 | What is the name of [COURSE]? | [NAME]
+I2 | What class is [COURSE]? | [NAME]
+I2 | What is the description of [COURSE]? | [COURSE] ([NAME]): [DESCRIPTION]
+I2 | What do you learn in [COURSE]? | [COURSE] ([NAME]): [DESCRIPTION]
+I2 | What term is [COURSE] typically offered? | [TERM]
+I2 | When is [COURSE] usually offered? | [TERM]
+I2 | What is typically offered in the [TERM]? | [COURSE]*
+I2 | Does [COURSE] fulfill any GE requirements? | (Yes, [GE_AREA])/No
+I2 | How many prerequisite classes are needed for me to take [COURSE]? | In order to take this course, a student would need to fulfill the [NUMBER] prerequisites.
+I2 | List classes below [COURSE]. | [COURSE]*
+I2 | List classes above [COURSE]. | [COURSE]*
+I2 | Does [COURSE] require any MATH classes? | (Yes, it requires [COURSE]*) / No
+I2 | Which classes have a [COURSE_TYPE] prerequisite? | [COURSE]*
+I2 | Which courses require me to have [STANDING] standing? | [COURSE]*
+I2 | Are there any [NUMBER] unit courses during [TERM]? | (Yes, [COURSE]*) / No
+I2 | Does [COURSE] have a non-STAT prerequisite? (Yes, [COURSE]*) / No
+I2 | Which professors are teaching STAT courses during [TERM]? | [TEACHER]*
+I2 | Which STAT courses during [TERM] are independent study? | [COURSE]*
+I2 | Which STAT courses during [TERM] are lecture based? | [COURSE]*
+I2 | Are any STAT courses during [TERM] offered on [DAY]? | [COURSE]*
+I2 | How many sections of [COURSE] will be offered during [TERM]? | [NUMBER]
+I2 | Which courses are being taught by [TEACHER] during [TERM]? | [COURSE]*
+I2 | Is [TEACHER] teaching any non-STAT courses during [TERM]? | (Yes, [COURSE]*) / No
+I2 | Which STAT classes are required for me to transfer into a STAT major? | [COURSE]*
+I2 | Which classroom(s) is [COURSE] being taught in during [TERM]? | [ROOM]*
+I2 | Which STAT courses require a C- or better in their prerequisites? | [COURSE]*
+I2 | Which STAT courses do I need to pass with a C- in order to take the next class? | [COURSE]*
+I2 | Are there any STAT classes I can skip if I get a [NUMBER] on my AP Statistics test? | [COURSE]*
+I2 | Are there any STAT classes that can be skipped with an AP Statistics test? | [COURSE]*
+I2 | Are there any STAT classes that can be skipped with an AP test? | [COURSE]*
+I2 | Which Statistics professor has the highest ranking? | [TEACHER]
+I2 | Which Statistics professor has the lowest ranking? | [TEACHER]
+I2 | Which courses require instructor approval? | [COURSE]*
+I2 | Does [COURSE] require instructor approval? | Yes/No
+I2 | Where can I find all stat class descriptions? | [LINK]
+I2 | Is [COURSE] being offered next quarter? | Yes/No.
+I2 | Was course offered last quarter? | Yes/No.
+I2 | Is [COURSE] a graduate level course? | Yes/No.
+I2 | Is [COURSE] a undergraduate level course? | Yes/No.
+I2 | Does [COURSE] have non-statistics prerequisites? | Yes/No.
+I2 | Does [COURSE] have non-statistics and non-math prerequisites? | Yes/No.
+I2 | Is [COURSE] part of the data science minor? | Yes/No.
+I2 | What teachers teach [COURSE] this quarter? | [TEACHER]*
+I2 | What teachers have taught [COURSE] in the past? | [TEACHER]*
+I2 | What courses involve [TOPIC]? | [COURSE]*
+I2 | Does [COURSE] require programming experience? | Yes/No.
+I2 | Do any stat courses cover [TOPIC]? | [COURSE]*
+I2 | When should [COURSE] be taken based on the stat flowchart? | [TERM_YEAR]
+I2 | Are there sections for [COURSE] that are open next quarter? | Yes/No.
+I2 | Who is the highest ranked teacher teaching [COURSE]? | [TEACHER]
+I2 | Who is the lowest ranked teacher teaching [COURSE]? | [TEACHER]
+I2 | Who is the advisor for the statistics major? | [TEACHER]
+I2 | Who is the advisor for the statistics minor? | [TEACHER]
+I2 | Who is the advisor for the data science minor? | [TEACHER]
+I2 | What courses are required for the data science minor? | [COURSE]*
+I2 | Where can I see the required courses for the data science minor? | [COURSE]*
+I2 | What data science minor courses are offered during [TERM_YEAR]? | [COURSE]*
+I2 | What data science minor courses have [COURSE] as a prerequisite? | [COURSE]*
+I2 | Do I need [COURSE] to complete the data science minor? | Yes/No.
+I2 | How do I sign up for the data science minor? [STEPS]
+I2 | How do I sign up for the statistics minor? [STEPS]
+I2 | Are there equivalents to [COURSE]? Yes/No. [COURSE]*
+I2 | What is the minimum GPA in order to switch into the statistics major? | [NUMBER]
+I2 | Is [COURSE] an upper level or lower level course? | Upper level/Lower level.
+I2 | When was the last time [COURSE] was offered? | [TERM_YEAR]
+I2 | Where can I see the information about the statistics minor? | [LINK]
+I2 | Is [COURSE] an upper level course? | Yes/No.
+I2 | Is [COURSE] a lower level course? | Yes/No.
+I2 | Who should I talk to in order to switch to the statistics major? | [TEACHER]
+I2 | Who should I talk to in order to figure out scheduling for stats majors? | [TEACHER]
+I2 | What is the catalog for [TERM_YEAR]? | [LINK]
+I2 | What are the classes in the [GE_CATEGORY] for STAT? | [LIST GE_AREA]
+I2 | What are the classes offered in [GE_AREA]? | [LINK]
+I2 | What [GE_AREA]’s are offered in [TERM]? | [LIST COURSES]
+I2 | What are the STAT support courses? | [LIST COURSES]
+I2 | What are the STAT support courses for [YEAR]? | [LIST COURSES]
+I2 | What are the STAT approved support electives? | [LIST COURSES]
+I2 | What support electives are approved? | [LIST COURSES]
+I2 | What STAT electives can I take? | [LIST COURSES]
+I2 | How many STAT electives do I have to take? | [LINK]
+I2 | What should I major in if I want to be an actuary? | [LINK]
+I2 | How many [NUMBER]00 level classes do I have to take? [NUMBER]
+I2 | What are the senior project guidelines for [YEAR]? | [LINK]
+I2 | What are some senior project ideas for [YEAR]? | [LINK]
+I2 | What are the requirements for senior project submissions? [LINK]
+I2 | What is the senior project evaluated on? | [LINK]  
+I2 | How is the senior project evaluated? | [LINK]
+I2 | How do I change my major to STAT? [LINK]
+I2 | What are the minimum requirements for changing into STAT? | [TEXT]
+I2 | What is the unit maximum for STAT? | [TEXT]
+I2 | When should I take [COURSE]? |  This year’s flowchart can be found here: [LINK], other years can be found here: [LINK].
+I2 | Where should I go for advising? | [LINK]
+I2 | Who is my advisor? | [LINK]
+I2 | What are the learning objectives of the STAT program? | [LINK]
+I2 | What are the STAT electives in [LIST A/B]? [LINK]
+I2 | What is [COURSE]? | [TEXT]
+I2 | When is [COURSE] typically offered? | [TERM]
+I2 | How many units is [COURSE]? | [TERM]
+I2 | What are the minimum graduation requirements? | [TEXT]
+I2 | What is the minimum graduating GPA? | [NUMBER]
+
+
+[COURSE_TYPE]: The identifier for a type of course (Ex: CSC, STAT, etc.)
+[COURSE]: Course code from the STAT department.
+[LIST COURSES]: A list of course codes.
+[TERM]: One of the four quarters on which the quarter system runs: Fall, Winter, Spring, or Summer.
+[YEAR]: A numerical value used to denote a calendar year.
+[TERM_YEAR]: A [TERM] and [YEAR] combination used to refer to a specific quarter of enrollment.
+[STANDING]: The current standing of a student at Cal Poly (Ex: freshman, sophomore, etc.)
+[LINK]: A link to a web page with useful information not easily displayed, such as images, graphs, and flowcharts.
+[TEXT]: A text response either scraped from online or hard coded in the system.
+[GE_AREA]: A two-character symbol representation of a specific area of general education.
+[LIST GE_AREA]: A list of GE Areas.
+[NUMBER]: A number.
+[NAME]: The proper name of a course in the STAT department.
+[DESCRIPTION]: The description of a course in the STAT department.
+[TEACHER]: Name of the teacher for a given course.
+[TOPIC]: Academic discipline or area such as “linear algebra”.
+[STEPS]: Description of how to perform a specific task.
+[DAY]: Identifier for a day of the week (ex: MTWR, MW, MWF, etc.)
+[ROOM]: A Cal Poly building and room id (ex: 014-300)

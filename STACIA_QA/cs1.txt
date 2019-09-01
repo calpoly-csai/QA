@@ -1,0 +1,152 @@
+F2|What is [COURSE] about?|[COURSE] is about [COURSE_DESCRIPTION]
+F2|What are the Mathematics/Statistics Support Elective options for [MAJOR]|The available Mathematics/Statistics Support Elective options for [MAJOR] are: [COURSE_LIST]
+F2|What are the approved technical electives for [MAJOR]|The available approved technical elective options for [MAJOR] are: [COURSE_LIST]
+F2|Which courses will count as approved external electives for [MAJOR]|The available approved external elective options for [MAJOR] are: [COURSE_LIST]
+F2|Is taking the GRE required for acceptance into the 4+1 program for [MAJOR]?|No, for [MAJOR] majors, students do not need to take the General Record Exam.
+F2|Which courses will count as approved external electives for [MAJOR]|The available approved external elective options for [MAJOR] are: [COURSE_LIST]
+F2|What classes are availabe to satisfy the pre-requisite technical elective course for [MAJOR]?|The available technical elective pre-requisite options for [MAJOR] are: [COURSE_LIST]
+F2|Which courses will count as approved pre-requisite technical electives for [MAJOR]|The available technical elective pre-requisite options for [MAJOR] are: [COURSE_LIST]
+F2|What are the prereqs for [COURSE]?|The prereqs for [COURSE] are: [COURSE_LIST].
+F2|Which courses are required to be taken before [COURSE]?|The prereqs for [COURSE] are: [COURSE_LIST].
+F2|What [MAJOR] electives are offered next quarter?|The electives being offered for [MAJOR] next quarter are: [COURSE_LIST].
+F2|What are the electives being offered for [MAJOR] next quarter?|The electives being offered for [MAJOR] next quarter are: [COURSE_LIST].
+F2|Which electives are offered for [MAJOR] for next quarter?|The electives being offered for [MAJOR] next quarter are: [COURSE_LIST].
+F2|What courses is [PROF] teaching this quarter?|This quarter, [PROF] is teaching [COURSE_LIST].
+F2|What courses is [PROF] teaching next quarter?|Next quarter, [PROF] is teaching [COURSE_LIST].
+F2|What courses are required for the [MINOR] minor?|The required courses for the [MINOR] minor are: [COURSE_LIST].
+F2|Which courses do I need to take for the [MINOR] minor?|The required courses for the [MINOR] minor are: [COURSE_LIST].
+F2|What courses have [COURSE] as a prereq?|The following courses have [COURSE] as a prereq: [COURSE_LIST].
+F2|What is [PROF] schedule like this quarter?|[PROF] will be teaching [COURSE_1] at [TIME], [COURSE_2] at [TIME], ... this quarter
+F2|What is [PROF] schedule like next quarter?|[PROF] will be teach [COURSE_1] at [TIME], [COURSE_2] at [TIME], ... next quarter
+F2|What are the all [COURSE_LEVEL] hundred level courses for [MAJOR] being offered this quarter?|The [COURSE_LEVEL] hundred level courses being offered for [MAJOR] this quarter are: [COURSE_LIST].
+F2|Which [COURSE_LEVEL] hundred level courses will be offered for [MAJOR] this quarter?|The [COURSE_LEVEL] hundred level courses being offered for [MAJOR] this quarter are: [COURSE_LIST]
+F2|What are the all [COURSE_LEVEL] hundred level courses for [MAJOR] being offered next quarter?|The [COURSE_LEVEL] hundred level courses being offered for [MAJOR] next quarter are: [COURSE_LIST].
+F2|How many units are required to obtain the 4+1 blended BS/MS degree for [MAJOR]?| [NUM_UNITS] are required to obtain a BS/MS degree via the 4+1 program for [MAJOR]
+F2|What courses are required for the [CONCENTRATION] concentration?|The required courses for the [CONCENTRATION] concentration are: [COURSE_LIST].
+F2|Which courses do I need to take for the [CONCENTRATION] concentration?|The required courses for the [CONCENTRATION] concentration are: [COURSE_LIST].
+F2|What are the life science support elective options for [MAJOR]|[MAJOR] requires the following life support courses: [COURSE_LIST]
+F2|What are the support course options for [MAJOR]?|[MAJOR] requires the following support courses: [COURSE_LIST]
+F2|Which courses can I take after taking [COURSE] for the [MAJOR]?|After taking [COURSE], you may take any of [COURSE_LIST]
+F2|Which [COURSE_LEVEL] hundred level courses are part of the [MAJOR] major?|[MAJOR] has the following [COURSE_LEVEL]-hundred level courses: [COURSE_LIST].
+F2|Which [COURSE_LEVEL] hundred level courses are part of the [MINOR]?|[MINOR] has the following [COURSE_LEVEL]-hundred level courses: [COURSE_LIST].
+F2|Which courses are part of the [CONCENTRATION]?|[CONCENTRATION] has the following courses: [COURSE_LIST].
+F2|Which courses are optional for [MINOR]?|The following courses are optional for [MINOR]: [COURSE_LIST].
+F2|How many courses in [MINOR] overlap with [MAJOR]?|There are [NUMERIC] courses in common between the [MAJOR] and the [MINOR]. These are: [COURSE_LIST]
+F2|Which courses are taught after [TIME] for [MAJOR] on [WEEKDAY] this quarter?|The following courses are taught after [TIME] on [WEEKDAY] this quarter: [COURSE_LIST].
+F2|Which courses are taught after [TIME] for [MAJOR] on [WEEKDAY] next quarter?|The following courses are taught after [TIME] on [WEEKDAY] next quarter: [COURSE_LIST].
+F2|Which courses in [MAJOR] can I skip through AP Credit?|The following AP exams will give you credit: [EXAM_1] -> [COURSE_1], [EXAM_2] -> [COURSE_2], ..., [EXAM_N] -> [COURSE_N].
+F2|Which courses in [MAJOR] can I skip through IB Credit?|The following IB exams will give you credit: [EXAM_1] -> [COURSE_1], [EXAM_2] -> [COURSE_2], ..., [EXAM_N] -> [COURSE_N].
+F2|Which majors require [COURSE]?|[MAJOR_LIST] all require [COURSE]
+F2|Which majors avoid [COURSE]?|[MAJOR_LIST] all do not require [COURSE]
+F2|Which minor or concentration adds the least amount of graduation time to the [MAJOR]?|[MINOR/CONCENTRATION] adds only [NUMERIC] extra units to [MAJOR], assuming that you double-count as many classes as possible.
+F2|How many [CLASS_LEVEL] courses will be taught this quarter?|There will be [NUM_COURSES] being taught this quarter. They are: [COURSE_LIST]
+F2|How many [CLASS_LEVEL] courses will be taught next quarter?|There will be [NUM_COURSES] being taught next quarter. They are: [COURSE_LIST]
+F2|How many general education courses do I need to take for the [MAJOR] major?|In order to complete the [MAJOR] major, you will need to take [NUM_COURSES] general education courses.
+F2|How many support courses do I need to take for the [MAJOR] major?|In order to complete the [MAJOR] major, you will need to take [NUM_COURSES] courses.
+F2|What are the sections times for [COURSE] next quarter?|There are [NUM_SECTIONS] sections [COURSE] next quarter where the section tims are the following: [SECTION-NUMBER] [DAY] [TIME]...
+F2|What are the sections times for [COURSE] this quarter?|There are [NUM_SECTIONS] sections for [COURSE] this quarter where the section tims are the following: [SECTION-NUMBER] [DAY] [TIME]...
+F2|How many sections of [COURSE] are being offered this quarter?|There are [NUM_SECTIONS] sections of [COURSE] being offered this quarter.
+F2|How many sections of [COURSE] are being offered next quarter?|There are [NUM_SECTIONS] sections of [COURSE] being offered next quarter.
+F2|What is the units break down for [MAJOR] major?|You need [NUM_UNITS] major units, [NUM_UNITS] GE units, [NUM_UNITS] support units, [NUM_UNITS] life science support elective units, ..., [NUM_UNITS] free elective units
+F2|How many GE units do I need for the [MAJOR] major? |You need [NUM_UNITS] GE units to complete the [MAJOR] major.
+F2|How many support units do I need for the [MAJOR] major? |You need [NUM_UNITS] support units to complete the [MAJOR] major.
+F2|How many units do I need for the [MAJOR] major?|You need [NUM_UNITS] units to complete the [MAJOR] major.
+F2|In order to complete the [MAJOR] major, how many units will I need?|You need [NUM_UNITS] units to complete the [MAJOR] major.
+F2|How many units do I need for the [MINOR] minor?|You need [NUM_UNITS] units to complete the [MINOR] minor.
+F2|What is the average grade for [CLASS] taught by [PROF] according to polyratings?|The average grade for [CLASS] taught by [PROF] is [GRADE]
+F2|How many courses is [PROF] teaching?|[PROF] is teaching [NUMERIC] classes. He will be teaching [COURSE_LIST]
+F2|How many units does the [MAJOR] require?|The [MAJOR] requires [NUMERIC] units to graduate.
+F2|How many extra quarters would [MINOR] add to the [MAJOR]?|If you try to double-count as many courses as possible, [MINOR] would add [NUMERIC_1] extra quarters. In the worst case, if no courses overlap, [MINOR] would add [NUMERIC_2] extra quarters to [MAJOR].
+F2|How many classes per quarter do I have to take for [MAJOR]?|To finish the [MAJOR] in 4 years, you must average [NUMERIC] classes per quarter.
+F2|If I take the [MAJOR] with the [MINOR], how long would it take me to graduate?|If you try to double-count as many courses as possible, [MINOR] would add [NUMERIC_1] extra quarters. In the worst case, if no courses overlap, [MINOR] would add [NUMERIC_2] extra quarters to [MAJOR].
+F2|If I take the [MAJOR] with the [MINOR] and the [CONCENTRATION], how long would it take me to graduate?|If you try to double-count as many courses as possible, [MINOR] and [CONCENTRATION] would add [NUMERIC_1] extra quarters. In the worst case, if no courses overlap, they would add [NUMERIC_2] extra quarters to [MAJOR].
+F2|How many units from [CLASS_TYPE] do I need for [MAJOR]?  |[MAJOR] requires [NUMERIC] units of [CLASS_TYPE]
+F2|How many concentrations are there in [MAJOR]?|There are [NUMERIC] concentrations in [MAJOR]. They are: [CONCENTRATION_LIST].
+F2|What is the minimum score I need on the [EXAM] to get credit for [COURSE]?|The minimum score to receive credit for [COURSE] through the [EXAM] is [NUMERIC].
+F2|How many courses do I need to take per quarter to get a degree in [MAJOR] within [NUMERIC] years?|To complete [MAJOR] in [NUMERIC_1] years, you must take an average of [NUMERIC_2] classes per quarter.
+F2|If I already have [NUMERIC] units, how many quarters would it take me to complete [MAJOR]?|Assuming you average 4 classes per quarter, it would take you [NUMERIC] more quarters to finish [MAJOR].
+F2|How many units does [COURSE] count towards?|[COURSE] counts as [NUMERIC] units.
+F2|How many courses are required for [MINOR]?|[MINOR] requires [NUMERIC] courses. They are:  [COURSE_LIST].
+F2|How many [DEPARTMENT] courses does [MAJOR] require?|[MAJOR] requires [NUMERIC] courses from the [DEPARTMENT]: [COURSE_LIST].
+F2|Which [PROF] is best for [COURSE]? |[PROF] has the highest Polyrating out of all instructors for [COURSE]
+F2|When is [COURSE] typically offered?|[COURSE] is typically offered during [QUARTER_LIST].
+F2|During what quarters is [COURSE] typically offered?|[COURSE] is typically offered during [QUARTER_LIST].
+F2|When do people typically take [COURSE] for the [MAJOR]?|Students in [MAJOR] typically take [COURSE] between [QUARTER_1] and [QUARTER_2]
+F2|Is [PROF] teaching [COURSE] this quarter?|[YES/NO], [PROF] is (not) teaching [COURSE] this quarter.
+F2|Is [PROF] teaching [COURSE] next quarter?|[YES/NO], [PROF] is (not) teaching [COURSE] next quarter.
+F2|Will [COURSE] be taught by [PROF] next quarter?|[YES/NO], [PROF] is (not) teaching [COURSE] next quarter.
+F2|Is [PROF] going to teach [COURSE] next quarter?|[YES/NO], [PROF] is (not) teaching [COURSE] next quarter.
+F2|Can I take [COURSE_1] before having completed [COURSE_2]?|[YES/NO], you can(not) take [COURSE_1] without previously taking [COURSE_2].
+F2|Can I take [COURSE_1] at the same time as [COURSE_2]?|[YES/NO], you can(not) take [COURSE_1] at the same time as [COURSE_2]. {if no: [COURSE_1/2] must be taken first.}
+F2|Do I have to take [COURSE_1] before [COURSE_2]?|[YES/NO], you (do not) need to take [COURSE_1] before [COURSE_2].
+F2|Are there any [MAJOR] electives related to [KEYWORD]?|[YES/NO], the following courses are [MAJOR] electives related to [KEYWORD]: [COURSE_LIST].
+F2|Does the [MAJOR] have any electives about [KEYWORD]?|[YES/NO], the following courses are [MAJOR] electives related to [KEYWORD]: [COURSE_LIST].
+F2|Do I have to take [COURSE] for the [MAJOR]?|[YES/NO], you are required to take [COURSE]. It is a prerequisite for [COURSE_LIST]
+F2|Does the [MAJOR] require [COURSE]?|[YES/NO], [COURSE] is part of the [MAJOR]. It is a prerequisite for [COURSE_LIST]
+F2|Does [COURSE] also count for the [MINOR]?|[YES/NO], [COURSE] is part of the [MINOR] and [is one of the required courses] OR [; however, it is not a required course and can be replaced by any of the following: [COURSE_LIST]
+F2|Do I have to take [COURSE] for the [MINOR]?|[YES/NO], [COURSE] is part of the [MINOR] and [is one of the required courses] OR [; however, it is not a required course and can be replaced by any of the following: [COURSE_LIST]
+F2|Does [MINOR] require [COURSE]?|[YES/NO], [COURSE] is part of the [MINOR] and [is one of the required courses] OR [; however, it is not a required course and can be replaced by any of the following: [COURSE_LIST]
+F2|Does the [MINOR] require any [DEPARTMENT] courses?|[Y/N], [MINOR] requires the following courses:  [COURSE_LIST] OR [MINOR] does not require any [DEPARTMENT] courses.
+F2|Can I double major with [MAJOR]?|[Y]: In addition to [MAJOR], you may also major in [MAJOR_LIST]: You may not double major with [MAJOR].
+F2|What are the degree requirements for [MAJOR]?|The degree requirements for [MAJOR] are: [DEGREE_REQUIREMENTS]
+F2|How many students are enrolled in [MAJOR]?|There are currently [TOTAL_COUNT] students enrolled in [MAJOR]
+F2|Is there a BS/MS blend with [MAJOR]?|[Y]: [MAJOR] has a 4+1 BS/MS program or [N]: [MAJOR] currently does not have a blended Bachelor's and Masters program
+F2|How many units are required for [MINOR]?|[TOTAL_COUNT] units are required to obtain a [MINOR] minor
+F2|Is [COURSE] going to be offered next quarter?|Y/N: [COURSE] is (not) going to be offered next quarter.
+F2|Does an inquiry need to be submitted to switch into [MAJOR]|If one is switching within the College of Engineering into [MAJOR], then there is no portal inquiry required to switch.
+F2|What are the minimum requirements to switch into [MAJOR]|To switch into [MAJOR]: [REQUIREMENTS]
+F2|How many [COURSE_LEVEL] courses are needed as part of the 4+1 program? | [NUM_COURSES] courses at the [COURSE_LEVEL] level are needed as part of the blended BS/MS program.
+F2|Does [MAJOR] contain any free electives?|Y/N: [MAJOR] does (not) have free electives are part of its degree requirements
+F2|What courses are needed to obtain [CONCENTRATION]|To obtain the [CONCENTRATION] concentration, students must take [COURSE][0], [COURSE][1]...and [COURSE][N]
+F2|IS [COURSE] needed to obtain a [MAJOR] degree?|Y/N: [COURSE] is (not) needed to obtain a [MAJOR] degree
+F2|IS [COURSE] needed to obtain a [MINOR] minor?|Y/N: [COURSE] is (not) needed to obtain a [MINOR] minor
+F2|IS [COURSE] needed to obtain a [CONCENTRATION] concentration?|Y/N: [COURSE] is (not) needed to obtain a [CONCENTRATION] concentration.
+F2|Is tutuoring offered for [COURSE]|Y/N: Tutoring is offered for [COURSE],    (if yes) Here is the tutoring schedule [TUTORING_SCHED]
+F2|Is [CONCENTRATION] open for [MAJOR] majors?|Y/N, [CONCENTRATION] is (not) open for students who are [MAJOR] majors
+F2|Is there a GPA requirement to enroll in [CONCENTRATION]|Y/N, there is (not) a GPA requirement to begin this [CONCENTRATION].  if yes: The GPA requirement to enroll is [GPA_REQ]
+F2|Which catalog does someone admitted in [Term/Year] follow?|If someone is admitted in [TERM/YEAR], they will follow the [CP_CATALOG_YEAR] catalog.
+F2|How many tech electives are required for [MAJOR]?|There are [TOTAL_ELECTIVE_COUNT] electives required as part of the [MAJOR] degree requirements
+F2|Is [COURSE] considered a technical elective for [MAJOR]?|Y/N: [COURSE] is (not) considered a technical elective for [MAJOR] 
+F2|Is there any information on [COURSE]?|Sure! Here's some more information on [COURSE]. [COURSE_DESCRIPTION]
+F2|Is [COURSE] currently offered?|Y/N: [COURSE] is currently (not) being taught this quarter.
+F2|Is [PROFESSOR] going to be teaching [COURSE] next quarter?|Y/N: [COURSE] will (not) be taught by [PROFESSOR]
+F2|Is [COURSE] a 4 unit class?|Y/N: [COURSE] is a [NUM_UNITS] unit class
+F2|Does [COURSE] have any prerequisites?|Y, the prerequisites for [COURSE] are [PREREQ] or N, this course doesn't have any prerequisites
+F2|What are the general education categories required for [MAJOR] majors?|The general education categories needed for [MAJOR] majors are [GE_TYPES]
+F2|Does a student need to take [COURSE1] before enrolling in [COURSE2]|Y/N, a student does (not) need to enroll in [COURSE1] before enrolling in [COURSE2]
+F2|Is [GRADE] enough to get credit for [COURSE]?|"Y/N, this grade is considered ""passing"" for [COURSE]"
+F2|Are there any [MAJOR] classes that can be taken by credit/no credit?|N, there are no major classes for [MAJOR] that can be taken on a pass/fail basis.
+F2|Are there general education courses that can be taken by credit/no credit?|Y, students are allowed to select a maximum of 4 GE units to enroll on a pass/fail basis
+F2|Can any technical electives for [MAJOR] be taken by credit/no credit?|N, technical electives for [MAJOR] majors are not allowed to be taken on a pass/fail basis.
+
+
+[COURSE]:A CS/SE course
+[PROF]:A professor
+[CONCENTRATION]:A concentration of CS/SE
+[COURSE_LIST]:A list of courses
+[QUARTER_LIST]:A list of quarters
+[QUARTER]:Winter 2019, Spring 2019, etc. or "last quarter" or "next quarter" or "current quarter"
+[CLASS_TYPE]:One of "Required/major", "support", "GE/elective"
+[DEPARTMENT]:Something like "MATH", "STAT", "DATA", "CSC", etc.
+[EXAM]:AP or IB Exam
+[MAJOR_LIST]:A list of majors
+[CONCENTRATION_LIST]:A list of concentrations
+[NUM_UNITS]:A count of units
+[NUM_SECTIONS]:A count of sections	
+[MAJOR]:Either CS or SE
+[MINOR]:A minor of CS/SE
+[NUMERIC]:A positive number, either integer or floating-point depending on context.	
+[GRADE]:All possible grades, A, A-, B+, B, B-, ... , F
+[NUM_COURSES]:A count of courses
+[Y/N]:Yes or No
+[COURSE_LEVEL]:The hundreds level of a course (100, 200, etc)
+[KEYWORD]:A search keyword/phrase
+[DEGREE_REQUIREMENTS]:GPA: [GPA], GWR, UCSP, [NUM_UNITS] units for upper division courses
+[REQUIREMENTS]:a bulleted list of the process of switching into CSC or SE
+[GPA_REQUIREMENTS]:IS A BULLETED LIST
+[CP_CATALOG_YEAR]:List of the different catalogs
+[TOTAL_ELECTIVE_COUNT]:total electives needed for a certain major
+[COURSE_DESCRIPTION]:The couple sentences listed for each course
+[NUM_UNITS]:units a certain course has
+[PREREQ]:short phrase listing all required classes
+[GE_TYPES]:types of GEs, C1, C2, D1, D2 etc

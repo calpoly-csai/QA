@@ -1,0 +1,140 @@
+H2|What are the prerequisites for [COURSE-NAME]?|The prerequisites for [COURSE-NAME] are [DEPARTMENT-NAME] [COURSE-NUM], [DEPARTMENT-NAME] [COURSE-NUM], and [DEPARTMENT-NAME] [COURSE-NUM].
+H2|What are the prerequisites for [DEPARTMENT-NAME] [COURSE-NUM]?|The prerequisites for [DEPARTMENT-NAME] [COURSE-NUM] are [DEPARTMENT-NAME] [COURSE-NUM], [DEPARTMENT-NAME] [COURSE-NUM], and [DEPARTMENT-NAME] [COURSE-NUM].
+H2|What courses are needed to take [COURSE-NAME]?|The prerequisites for [COURSE-NAME] are [DEPARTMENT-NAME] [COURSE-NUM], [DEPARTMENT-NAME] [COURSE-NUM], and [DEPARTMENT-NAME] [COURSE-NUM].
+H2|What courses are needed to take [DEPARTMENT-NAME] [COURSE-NUM]?|The prerequisites for [DEPARTMENT-NAME] [COURSE-NUM] are [DEPARTMENT-NAME] [COURSE-NUM], [DEPARTMENT-NAME] [COURSE-NUM], and [DEPARTMENT-NAME] [COURSE-NUM].
+H2|How many units is [COURSE-NAME]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is worth [NUM-UNITS].
+H2|How many units is [DEPARTMENT-NAME] [COURSE-NUM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is worth [NUM-UNITS].
+H2|How much credits is [COURSE-NAME] worth?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is worth [NUM-UNITS].
+H2|How much credits is [DEPARTMENT-NAME] [COURSE-NUM] worth?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is worth [NUM-UNITS].
+H2|When is [COURSE-NAME] offered?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is typically offered in [TERM].
+H2|When is [DEPARTMENT-NAME] [COURSE-NUM] offered?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is typically offered in [TERM].
+H2|Is [COURSE-NAME] available in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is typically offered in [TERM].
+H2|Is [DEPARTMENT-NAME] [COURSE-NUM] available in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is typically offered in [TERM].
+H2|Is [COURSE-NAME] offered in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is typically offered in [TERM].
+H2|Is [DEPARTMENT-NAME] [COURSE-NUM] offered in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is typically offered in [TERM].
+H2|What courses are offered in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM]... are all offered in [TERM].
+H2|What is available in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM]... are all offered in [TERM].
+H2|What is the name of [DEPARTMENT-NAME] [COURSE-NUM]?|The full name of [DEPARTMENT-NAME] [COURSE-NUM] is [COURSE-NAME].
+H2|What is [DEPARTMENT-NAME] [COURSE-NUM]?|[DEPARTMENT-NAME] [COURSE-NUM] is [COURSE-NAME]. The description is [COURSE-DESC].
+H2|What is the number for [COURSE-NAME]?|The number for [COURSE-NAME] is [DEPARTMENT-NAME] [COURSE-NUM].
+H2|What courses have [COURSE-NAME] as a prerequisite?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is a prerequisite for [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|What courses have [DEPARTMENT-NAME] [COURSE-NUM] as a prerequisite?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is a prerequisite for [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|What comes after [COURSE-NAME]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is a prerequisite for [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|What comes after [DEPARTMENT-NAME] [COURSE-NUM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is a prerequisite for [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|What courses have no prerequisites?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]... don't have prerequisites.
+H2|What is the description for [COURSE-NAME]?|The description of [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is [COURSE-DESC].
+H2|What is the description for [DEPARTMENT-NAME] [COURSE-NUM]?|The description of [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is [COURSE-DESC].
+H2|Does [DEPARTMENT-NAME] [COURSE-NUM] have more units than [DEPARTMENT-NAME] [COURSE-NUM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] has more units than [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME].
+H2|Does [COURSE-NAME] have more units than [COURSE-NAME]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] has more units than [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME].
+H2|Is [COURSE-NAME] needed for [COURSE-NAME]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is (not) a prerequisite for [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME].
+H2|Is [DEPARTMENT-NAME] [COURSE-NUM] needed for [DEPARTMENT-NAME] [COURSE-NUM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is (not) a prerequisite for [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME].
+H2|What courses are about [SUBJECT]?|The following courses are about [SUBJECT]: [DEPARTMENT-NAME] [COURSE-NUM] - [COURSE-NAME] ...
+H2|What courses pertain to [SUBJECT]?|The following courses are about [SUBJECT]: [DEPARTMENT-NAME] [COURSE-NUM] - [COURSE-NAME] ...
+H2|Who should I take [COURSE-NAME] with?|Based on PolyRatings, [PROFESSOR] is the best professor for this course with a score of [POLY-SCORE]
+H2|Who should I take [DEPARTMENT-NAME] [COURSE-NUM] with?|Based on PolyRatings, [PROFESSOR] is the best professor for this course with a score of [POLY-SCORE]
+H2|Who typically teaches [COURSE-NAME]?|The following professors have taught [CSSE-COUSE-NAME]: [PROFESSOR]...
+H2|Who typically teaches [DEPARTMENT-NAME] [COURSE-NUM]?|The following professors have taught [CSSE-COUSE-NUM]: [PROFESSOR]...
+H2|Does [COURSE-NAME] have any non CS/SE prerequisites?|Yes. They are [DEPARTMENT-NAME] [COURSE-NUM]... / No
+H2|Does [DEPARTMENT-NAME] [COURSE-NUM] have any non CS/SE prerequisites?|Yes. They are [DEPARTMENT-NAME] [COURSE-NUM]... / No
+H2|Does [DEPARTMENT-NAME] [COURSE-NUM] have a lab?|Yes it is [NUM-UNITS] units/No
+H2|Does [COURSE-NAME] have a lab?|Yes it is [NUM-UNITS] units/No
+H2|What courses are offered CR/NC?|The following courses are offered on a Credit/No Credit basis only: [DEPARTMENT-NAME] [COURSE-NUM] - [COURSE-NAME] ...
+H2|What courses are offered Credit/No Credit?|The following courses are offered on a Credit/No Credit basis only: [DEPARTMENT-NAME] [COURSE-NUM] - [COURSE-NAME] ...
+H2|Which classes are offered CR/NC?|The following courses are offered on a Credit/No Credit basis only: [DEPARTMENT-NAME] [COURSE-NUM] - [COURSE-NAME] ...
+H2|Which classes are offered Credit/No Credit?|The following courses are offered on a Credit/No Credit basis only: [DEPARTMENT-NAME] [COURSE-NUM] - [COURSE-NAME] ...
+H2|Is [COURSE-NAME] offered on a Credit/No Credit basis?|Yes/No
+H2|Is [DEPARTMENT-NAME] [COURSE-NUM] offered on a Credit/No Credit basis?|Yes/No
+H2|Is there a grade prerequesite for [COURSE-NAME]?|Yes, it is a C- or better in [DEPARTMENT-NAME] [COURSE-NUM]
+H2|Is there a grade prerequesite for [DEPARTMENT-NAME] [COURSE-NUM]?|Yes, it is a C- or better in [DEPARTMENT-NAME] [COURSE-NUM]
+H2|How many [LEVEL] level courses are available?|There are [NUM-COURSES] [LEVEL] level courses, they are: [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]...
+H2|What courses are credit not allowed for [MAJOR]?|The following courses do not allow credit for [MAJOR] students: [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]...
+H2|Is [COURSE-NAME] applicable to [MAJOR]?|Yes/No
+H2|Is [DEPARTMENT-NAME] [COURSE-NUM] applicable to [MAJOR]?|Yes/No
+H2|Does [COURSE-NAME] apply to [MAJOR]?|Yes/No
+H2|Does [DEPARTMENT-NAME] [COURSE-NUM] apply to [MAJOR]?|Yes/No
+H2|Can I get credit for [DEPARTMENT-NAME] [COURSE-NUM] as a [MAJOR]?|Yes/No
+H2|Can I get credit for [COURSE-NUM] as a [MAJOR]?|Yes/No
+H2|What does [LEGEND-ITEM] mean?|[LEGEND-ITEM] means [LEGEND-DESCRIPTION]
+H2|Does [COURSE-NAME] have any corequisites?|Yes, they are [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|Does [DEPARTMENT-NAME] [COURSE-NUM] have any corequisites?|Yes, they are [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|Which courses have corequisites?|There are [NUM-COURSES] courses that have corequisites, they are: [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]...
+H2|Does [COURSE-NAME] have any concurrent enrollements?|Yes, they are [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|Does [DEPARTMENT-NAME] [COURSE-NUM] have any concurrent enrollments?|Yes, they are [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|Which courses have concurrent enrollments?|There are [NUM-COURSES] courses that have concurrent enrollments, they are: [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]...
+H2|What courses are being offered in [TERM]?|There are [COURSE-NUM] being offered in [TERM]. They are [DEPARTMENT-NAME] [COURSE-NUMBER]... .
+H2|Which classes will be be offered in [TERM]?|There are [COURSE-NUM] being offered in [TERM]. They are [DEPARTMENT-NAME] [COURSE-NUMBER]... .
+H2|For [TERM], which classes are being offered?|There are [COURSE-NUM] being offered in [TERM]. They are [DEPARTMENT-NAME] [COURSE-NUMBER]... .
+H2|What professors are teaching [COURSE-NAME] in [TERM]?|The following professors are teaching [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] in [TERM]: [PROFESSOR]...
+H2|What professors are teaching [DEPARTMENT-NAME][COURSE-NUMBER] in [TERM]?|The following professors are teaching [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] in [TERM]: [PROFESSOR]...
+H2|What time is [COURSE-NAME] being offered in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is being offered at the following times: [TIME]
+H2|What time is [DEPARTMENT-NAME] [COURSE-NUMBER] being offered in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is being offered at the following times: [TIME]
+H2|How many sections of [COURSE-NAME] are being offered in [TERM]?|There are [NUM-SECTIONS] of [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] offered in [TERM]
+H2|How many sections of [DEPARTMENT-NAME] [COURSE-NUMBER] are being offered in [TERM]?|There are [NUM-SECTIONS] of [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] offered in [TERM]
+H2|What courses are typically offered in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM]... are all offered in [TERM].
+H2|What courses are available in [TERM]?|[DEPARTMENT-NAME] [COURSE-NUM]... are all offered in [TERM].
+H2|What is [DEPARTMENT-NAME] [COURSE-NUM] called?|The full name of [DEPARTMENT-NAME] [COURSE-NUM] is [COURSE-NAME].
+H2|What is the name and description of [DEPARTMENT-NAME] [COURSE-NUM]?|[DEPARTMENT-NAME] [COURSE-NUM] is [COURSE-NAME]. The description is [COURSE-DESC].
+H2|How is [COURSE-NAME] listed?|The number for [COURSE-NAME] is [DEPARTMENT-NAME] [COURSE-NUM].
+H2|Which courses are taught that are about [SUBJECT]?|The following courses are about [SUBJECT]: [DEPARTMENT-NAME] [COURSE-NUM] - [COURSE-NAME] ...
+H2|Who is the best professor for [COURSE-NAME] with?|Based on PolyRatings, [PROFESSOR] is the best professor for this course with a score of [POLY-SCORE]
+H2|Which classes have zero prerequisites?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]... don't have prerequisites.
+H2|What are the classes that don't have any prereq's?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]... don't have prerequisites.
+H2|What course has more units, [COURSE-NAME] or [COURSE-NAME]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] has more units than [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME].
+H2|Do I need [COURSE-NAME] for [COURSE-NAME]?|[DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] is (not) a prerequisite for [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME] .
+H2|Are there corequesites for [DEPARTMENT-NAME] [COURSE-NUM]?|Yes, they are [DEPARTMENT-NAME] [COURSE-NUM]...
+H2|What is [DEPARTMENT-NAME] [COURSE-NUM]'s name?|The full name of [DEPARTMENT-NAME] [COURSE-NUM] is [COURSE-NAME].
+H2|Which professors have taught [COURSE-NAME]?|The following professors have taught [CSSE-COUSE-NAME]: [PROFESSOR]...
+H2|What is [LEGEND-ITEM]?|[LEGEND-ITEM] means [LEGEND-DESCRIPTION].
+H2|What are the classes that have corequisites?|There are [NUM-COURSES] courses that have corequisites, they are: [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]...
+H2|Are there classes with concurrent enrollments?|There are [NUM-COURSES] courses that have concurrent enrollments, they are: [DEPARTMENT-NAME] [COURSE-NUM] [COURSE-NAME]...
+H2|Which quarter is [COURSE-NAME] typically offered?|[COURSE-NAME] is typically offered in [TERMS]
+H2|Does [COURSE-NAME] have a prerequisite from another department?|If yes: Yes, [COURSE-NAME] has prerequieites from [DEPARTMENTS]
+H2|What course number does [COURSE-NAME] have?|[COURSE-NAME] has number [COURSE-NUMBER]
+H2|What course name does [COURSE-NUM] have?|[COURSE-NUM] has name [COURSE-NAME]
+H2|How many units of lab does [DEPARTMENT-NAME][COURSE-NUM] have?|[DEPARTMENT-NAME][COURSE-NUM] has [NUM-UNITS] units
+H2|How many units of lab does [COURSE-NAME] have?|[COURSE-NAME] has [NUM-UNITS] units
+H2|Are there any recommended classes for [COURSE-NAME]?|if yes: Yes, they are [COURSE-NAMES]
+H2|Are there any recommended classes for [DEPARTMENT-NAME][COURSE-NUM]?|if yes: Yes, they are [COURSE-NAMES]
+H2|Which classes have [NUMBER] prerequisites?|[COURSE-NAMES]
+H2|Does [COURSE-NAME] require consent of instructor?|Yes/No
+H2|Does [DEPARTMENT-NAME][COURSE-NUM] require consent of instructor?|Yes/No
+H2|Does [COURSE-NAME] require [STANDING]?|Yes/No
+H2|Does [DEPARTMENT-NAME][COURSE-NUM] require [STANDING]?|Yes/No
+H2|Are there any [NUM-UNITS] unit courses?|Yes/No
+H2|Are there any [NUM-UNITS] unit courses in [TERM]?|Yes/No
+H2|Is [COURSE-NAME] corsslisted?|if yes: Yes, it is crosslisted as [DEPARTMENT-NAME][COURSE-NUM]
+H2|Is  [DEPARTMENT-NAME][COURSE-NUM] corsslisted?|if yes: Yes, it is crosslisted as [DEPARTMENT-NAME][COURSE-NUM]
+H2|Which courses are crosslisted?|Here is a list of crosslisted courses: [COURSE-NAMES]
+H2|Which departments does [COURSE-NAME] have prerequisites in?|[COURSE-NAME] have prerequisites in these departments: [DEPARTMENTS]
+H2|Which courses does [PROFESSOR] teach?|[PROFESSOR] teaches: [COURSE-NAMES]
+H2|What is [PROFESSOR]'s poly rating?|[PROFESSOR]'s PolyRating is: [POLY-SCORE]
+H2|Does [COURSE-NAME] fulfill any GE requirements?|If yes: [COURSE-NAME] fulfills GE requirement [GE-AREA]
+H2|Which courses fulfill any GE requirements?|The following courses fulfill GE requirements: [COURSE-NAME][GE-AREA]...
+H2|Can I take [COURSE-NAME] in the [TERM] quarter?|If no: [COURSE-NAME] is typically offered in [TERM]
+H2|On what level is [COURSE-NAME]?|[COURSE-NAME] is on level [LEVEL]
+H2|Is course name on [LEVEL] level?|If no: No, [COURSE-NAME] is on [LEVEL] level
+H2|Can I take [COURSE-NAME] with [PROFESSOR]?|Yes/No
+H2|Can I take [DEPARTMENT-NAME][COURSE-NUM] with [PROFESSOR]?|Yes/No
+H2|What [LEVEL] level courses are offered in [TERM]?|The following [LEVEL] level courses are offered in [TERM]: [COURSE-NAMES]
+H2|Which courses fulfill [GE-AREA]?|If any: The following courses fulfill [GE-AREA]: [DEPARTMENT-NAME][COURSE-NUM][COURSE-NAME]... 
+H2|Which courses require [COURSE-NAME]|The following courses require [COURSE-NAME]: [DEPARTMENT-NAME][COURSE-NUM][COURSE-NAME]... 
+
+
+[NUM-UNITS]: Number of units.
+[TERM]: Fall, Winter, Spring, Summer.
+[COURSE-DESC]: Description of a course.
+[SUBJECT]: Description of a subject, such as databases, artifiical intellegence.
+[PROFESSOR]: Name of professor
+[POLY-SCORE]: Rating of a professor from polyratings.com
+[DEPARTMENT-NAME]: Department of class, ex. MATH
+[COURSE-NUM]: Number of a class, ex. 244
+[COURSE-NAME]: Name of a course, ex. Linear Algebra
+[LEVEL]: Course level
+[NUM-COURSES]: Number of courses returned
+[MAJOR]: Major degree
+[LEGEND-ITEM]: Term that needs description on the course catalog
+[LEGEND-ANSWER]: Description of the legend item
+[TIME]: The days (MWF) and times (start end) that a course is offered
+[NUM-SECTIONS]: Number of sections returned
+[STANDING]: Junior, sophomore, graduate, etc.
+[GE-AREA]: GE area

@@ -1,0 +1,167 @@
+B1|How many units are in the [program]?|[Program] has [units] number of units.
+B1|How many [program] students are there in the department?|[Program] has [Number] number of students.
+B1|What college is the department apart of?|The department is apart of [college] college.
+B1|Where is the advising staff located?|The advising staff is located [room].
+B1|Who are the faculty advisors? |The faculty advisors are [person].
+B1|Who is my faculty advisor?|Your faculty advisor is [person].
+B1|Who is the faculty advisor if my last name starts with [letter last_name]?|Your faculty advisor is [name].
+B1|Which professors are faculty advisors?|The faculty advisors are [person].
+B1|Is [instructor] a faculty advisor?|The faculty advisors are [person].
+B1|What can faculty advisors help me with?|Faculty advisors can do [advisor_info].
+B1|Who can I go to if I have questions about [topic]?|Faculty advisors can do [advisor_info].
+B1|What can the advising center help me with?|Faculty advisors can do [advisor_info].
+B1|Where is the CSSE department located?|The CSSE department is located in building [building] and room [room].
+B1|What is the room number of the CSSE department?|The CSSE department is located in room [room].
+B1|What is the phone number of the CSSE department?|The phone number is [phone].
+B1|What is the email of the CSSE department?|The email number is [email].
+B1|When is the CSSE department open?|The department is open [hours].
+B1|When is the CSSE department open?|The department is open [hours].
+B1|What are the hours of the CSSE department?|The department is open [hours].
+B1|Is the CSSE department open right now?|The department is open [hours].
+B1|Is the CSSE department open on [weekday and or time]?|The department is open [hours].
+B1|Who is the department chair?|The chair is [person].
+B1|Who is the administrator?|The administrator is [person].
+B1|What role does [person] have in the department?|[person] is a [role].
+B1|How many people are there in the department?|There are [Number] people in the department.
+B1|What is the email of [person]?|The email of [person] is [Email].
+B1|Where is the office of [person]?|The office of [person] is [Building, Room].
+B1|Which faculty are [role]?|[List of Names] is [Role].
+B1|How many [role] are there in the department?|There are [Number] people in this [role].
+B1|Who are the [overall_role]?|[List of persons] are/is [role].
+B1|What is the most recent news article about the CSSE department?|The most recent article was [Name]
+B1|When was the latest news article published?|The most recent article was published on [Date]
+B1|What articles were published in [Year]?|[List of Names] were published in [Year].
+B1|How many article were published in [Year]?|[Count] articles were published in [Year].
+B1|Which articles were published in [month]?|[List of Names] were published in [Month].
+B1|Which degree programs are available?|[List of Programs] are available at Cal Poly.
+B1|What are the program objectives of [major]?|[Program Objectives]
+B1|What are the learning outcomes of [major]?|[Learning Outcomes]
+B1|Which degree programs are offered as a Bachelors of Science?|[List of Programs] are available as Bachelors of Science.
+B1|Which degree programs are offered as a Masters of Science?|[List of Programs] are available as Masters of Science.
+B1|What is name of blended program?|[Name] is the name of the blended program.
+B1|What is the blended program?|[Description].
+B1|What Minors are available?|[List of Minors] are available at Cal Poly.
+B1|How many people are in the classes for [major]?|[Number] are in a typical class for [Major].
+B1|Who accredits the [major]?|[Name] accredits the major.
+B1|What are the benefits of the blended program?|[Benefits] are the benefits of the blended program.
+B1|What types of roles do faculty members have?|[List of Roles] are the roles in the Department.
+B1|How can I contact [name]?|[List of Contact Avenues] are possible ways to contact faculty.
+B1|Who is in [office number]?|[Name] is in [Office Number].
+B1|What is the home page for [name]?|[URL] is the home page for the [Name].
+B1|What are the research interests of [name]?|[Research Interests] are in the interests of [Name].
+B1|What is the phone number for [name]?|[Phone Number] is the Phone Number for [Name].
+B1|What is the zip code of the department office?|[Zip Code] is the Zip Code of the Office.
+B1|How can I contact the CSSE department?|[List of Contact Avenues] are the possible ways to contact the department.
+B1|What is the fax for the CSSE department?|[Fax Number] is the fax number.
+B1|Where can I find information about accreditation for the department?|[URL] is where you can find information about the accreditation for the department.
+B1|How many computer engineering students are there?|[Number] is the number of computer engineering students.
+B1|What is the mission statement of the CSSE department?|[Mission Statement].
+B1|How many total students are in CSSE department?|[Number] students are in the CSSE department.
+B1|Who is the contact for giving to the CSSE department?|[Name] is who to contact for information on giving to the department.
+B1|What does giving support for the department do?|Giving to the department goes towards [List of Donation Goals]
+B1|Where do my donations to the department go?|Donating to the department goes towards [List of Donation Goals]
+B1|Do donations support [topic]?|(Yes/no), [topic] (is/isn't) part of the donating program.
+B1|What lab facilities does the department have?|The department has the following lab facilities: [List of Labs]
+B1|Who is on the advisory board?|The advisory contains [Number] of people, including [Random subset of on Board]
+B1|Is [person] on the advisory board?|(Yes/no), [Person] (is/isn't) part of the advisory board.
+B1|Does [company] have a representative on the advisory board?|(Yes/no), [Company] (does/doesn't) have a representative of the advisory board.
+B1|What accreditations does the department have?|The CSSE department has [list of accreditations]
+B1|Does the department have an outreach program?|Yes, the computer science has an outreach program. It works towards providing [list of Outreach Programs].
+B1|What does the department’s outreach program do?|The outreach program works towards providing [list of Outreach Programs].
+B1|How do I contact the outreach program?|You can reach the outreach program at [Email]
+B1|What kind of activities does the outreach program host?|The outreach program works towards providing [list of Outreach Programs].
+B1|What companies recruit from Cal Poly?|Some companies that heavily recruit from Cal Poly include [list of Company]
+B1|Does [company] heavily recruited from Cal Poly?|(Yes/no), [Company] (does/doesn't) heavily recruit from Cal Poly.
+B1|Why should I choose Cal Poly’s CSSE department?|[Text]
+B1|What faculty positions are available?|The following positions are currently available: [list of Faculty Positions]
+B1|Does the department have a newsletter?|Yes, the newsletter can be found at [link]
+B1|Where is the department office located?|The department office is located at [Room] in [Building]
+B1|What are the department office hours?|The department office is open at [times].
+B1|Is the department office open at [time]?|(Yes/No). The department office is usually open at [times].
+B1|Is the department office open right now?|(Yes/No). The department office is usually open at [times].
+B1|What was the last news article about [topic]?|The last news article about [topic] was [date], titled [Title].
+B1|What is the average class size?|Average class size in the CSSE department is [Number].
+B1|What is the difference between [major] and [major]?|[Major] has goals to do [list of Objectives/Outcomes]. [Major] has goals to do.
+B1|What are the prerequisites for [Minor]?|[Minor]'s prerequisites are: [list of prerequisites]
+B1|What Minors are offered?|The CSSE department offers the following Minors: [list of Minors]
+B1|Is there a [Minor] Minor?|(Yes/no), the CSSE department (does/doesn't) offer the following a [Minor] Minor;
+B1|What is the [Minor] Minor?|The [Minor] Minor encompasses [text]
+B1|Is [Minor] a part of another department?|(Yes/no), the [Minor] Minor is a part of the [Name] department and the [Name] department.
+B1|Who is the advisor for [Minor]?|[Name] is the advisor for the [Minor] Minor
+B1|How many units to get a Minor in [Minor]?|[Minor] requires [units] number of units.
+B1|How many prerequisites are there for [Minor]?|[Count] prerequisites for [Minor].
+B1|How would a Minor help me?|[Minor] can do [about].
+B1|Who should I go to for advice about my Minor?|[Name] is the advisor for the [Minor] Minor.
+B1|How many students take [Minor]?|[Number]
+B1|Will [Minor] help me get a job?|[Minor] can do [about].
+B1|How many classes would I have to take to get a Minor in [Minor]?|[Units/4] classes are required for [Minor]
+B1|Is [class] a prerequisite for [Minor]?|(Yes/no) the [Minor] Minor requires [list of prerequisites].
+B1|Is [name] the advisor for [Minor]?|(Yes/no) the [Minor] Minor requires [list of prerequisites].
+B1|How many units to get a Minor in [Minor] and a Minor in [Minor]?|A Minor in [Minor] and in [Minor] requires [units+units] number of units.
+B1|What is the most popular Minor at Cal Poly?|[Number] has the most students currently enrolled.
+B1|How many units is every Minor at Poly combined?|[Units] total units required for all Minors at Poly.
+B1|How many outreach programs are there?|There are [number] outreach programs.
+B1|Who should I talk to in order to help with [program] outreach program?|Email] for discussion about [program]
+B1|What are the goals of [program]?|[Program]'s goals are: [list of Goals]
+B1|How many goals does [program] have?|[Program] has (x) goals.
+B1|What year was [title] article published?|[Title] article was published in [date]
+B1|How many goals does [program] have?|[Program] has (x) goals.
+B1|How many expected outcomes does [program] have?|[Program] has (x) expected outcomes.
+B1|What company does [name] work for?|[Name] works for [company
+B1|What accreditations does [department] have?|[Department] has [list of accreditations].
+B1|What college does [department] belong to?|[Department] belongs to the college of [college].
+B1|What positions are available in [department]?|[Department] has the following positions available: [list of positions].
+B1|What does [name] do?|[Name] does [role].
+B1|Who can I contact about outreach and which outreach program I should choose?|You can contact any email in this list: [list of emails]
+B1|How do I learn more about [Minor]?|Here is info about [Minor]: [about]
+B1|What is email and phone for [person]?|Here is contact info: [Email] and [Phone].
+B1|What departments does Cal Poly have?|Cal Poly has [list of departments].
+B1|Can I get a job at Cal Poly in [department]?|[Department] has the following available positions: [list of positions available].
+B1|Does the CSSE department offer any Minors?|The CSSE department has the following Minors: [list of Minors]
+
+
+[major]: computer science, computer engineering, software engineering
+[Minor]: data science, computer science, interactive arts
+[letter last_name]: Last name/first letter of last name
+[instructor]: a lecturer or professor
+[Number]: generic number variable
+[college]: the college that the department is apart of
+[advisor_info]: the information that advising helps you with
+[person]: a name of a person
+[List of persons]: a list of people
+[topic]: general subject
+[weekday]: day of the week
+[building]: the building number
+[weekday and or time]: weekday and time
+[hours]: the hours that the computer science department is open
+[time]: time of the day
+[room]: the room number
+[company]: external organization
+[grad/undergrad]: graduate and undergraduate
+[role]: Faculty (Professor, Assistant Professor, Associated Professor), Affiliated Faculty, Active Emeriti, Lecturer, Staff (Administrative Support Coordinator, Operating Systems Analyst, Administrative Analyst Support)
+[overall_role]: Faculty, Affiliated Faculty, Active Emeriti, Lecturer, Staff
+[email]: an email address of an individual
+[phone]: a phone number of an individual
+[fax number]: Fax Number
+[Name]: Refers to title of article
+[List of Names]: All names of articles relating to topic
+[List of Programs]: List of all programs
+[Program Objectives]: program objectives for that program
+[Learning Outcomes]: learning outcomes for that program
+[Description]: Description of program
+[Benefits]: List of benefits 
+[URL]: link to a website
+[List of Contact Avenues]: List of ways to contact faculty
+[List of Minors]: List of possible minors
+[List of Roles]: list of roles
+[Mission Statement]: Mission statement
+[Research Interests]: Research Interests of a Professor
+[Class]: name of class that might be a prereq
+[Outreach program]: program that CSSE outreach participates in
+[list of Outreach program]: list of programs that CSSE outreach participates in
+[list of accreditations]: list of accreditations a department has
+[list of positions]: list of jobs available
+[list of emails]: list of emails
+[Title] of article
+[Units] number of units
+[Text]: block of text (like news articles)

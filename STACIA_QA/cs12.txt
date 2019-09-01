@@ -1,0 +1,134 @@
+G1|What are the GE area required for [Major]?|List of Strings
+G1|What are the level [Level Number] courses for [Major]?|List of Strings
+G1|What are the courses for [GE Area] GE?|List of Strings
+G1|What courses do I have to take in [Year Name]?|List of Strings 
+G1|What are the undergraduate courses for [Major]?|List of Strings
+G1|What are the graduate courses for [Major]?|List of Strings
+G1|What are the [Year Name] courses for [Major]?|List of Strings
+G1|What [Department] courses are required?|List of Strings
+G1|What classes are required from [Department]?|List of Strings
+G1|How many units are required to get the BS degree?|Number
+G1|How many units are required for level [Level Number]?|Number
+G1|How many units have [GE Area] GE?|Number
+G1|How many units of upper division have to be completed?|Number
+G1|How many units have to be completed for the GE?|Number
+G1|How many units have to be completed for the major?|Number
+G1|How many courses have [GE Area] GE?|Number
+G1|How many courses are required for [Major]?|Number
+G1|How many GE areas have to be completed for [Major]?|Number
+G1|How many [Department] courses are required?|Number
+G1|How many courses from [Department] are required?|Number
+G1|What GE area has most units?|String
+G1|What GE Area has less units?|String
+G1|What is the minimum GPA to get the BS degree?|Number
+G1|What GPA do I need to graduate?|Number
+G1|From which departments are the courses offered?|List of Strings
+G1|Am I behind if I am a [Nth] year with [Number] units completed?|Yes or No
+G1|What minor would make more sense with [Major]|String
+G1|How many classes of [Department] do I have to complete?|Number
+G1|At best, how long last [Major]?|Number
+G1|How many years are necessary to graduate from [Major]?|Number
+G1|How many units of tech electives are required for a [Major| Minor]?|Number
+G1|Do I have to take the GWR?|Yes or No
+G1|Do I have any Free Electives as [Major|Minor]?|Yes or No
+G1|How many units of Free Electives do I have as a STATS major?|Number
+G1|How many units of Support Courses do I need to take as a [Major|Minor]?|Number
+G1|How many units of Approved support courses do I need to take as a [Major|Minor]?|Number
+G1|What CSC courses can I take as a [Major|Minor]?|[Courses]
+G1|How many units are required for a [Major|Minor]?|Number
+G1|How many units of introductory sequences are required for Major|Minor]?|Number
+G1|On average, how many units should I take per quarter as a [Major|Minor]?|Number
+G1|How many GE units are specified as Major and/or Support courses for a [Major|Minor]?|Number
+G1|Can I graduate as a STATS major in [Number] years?|Yes or No
+G1|Is it possible to graduate as a STATS Major in 4 years?|Yes or No
+G1|How many different GE areas are required for [Major|Minor]?|Number
+G1|How many GE units are required at the 300 level for [Major|Minor]?|Number
+G1|How many units of [GE Area] are required for [Major|Minor]?|Number
+G1|How many Major units are required for [Major|Minor]?|Number
+G1|How many Support units are required for [Major|Minor]?|Number
+G1|Do I have to take courses from other departments?|Yes or No
+G1|Do I have to take [Department]courses as a [Major|Minor]?|Yes or No
+G1|What is the least amount of units suggested to take in a quarter?|Number
+G1|What is the most amount of units suggested to take in a quarter?|Number
+G1|As a STATS major, when should I fulfill my GWR requirement?|[Quarters]
+G1|What is the most amount of Major units I should take in a quarter?|Number
+G1|What is the least amount of Major units I should take in a quarter?|Number
+G1|Do I have to satisfy a USCP requirement as a [Major|Minor]?|Yes or No
+G1|How many units should I take my [Nth] year?|Number
+G1|How many units should I have taken by the end of my [Nth] year?|Number
+G1|How many units should I have taken by the start of my [Nth] year?|Number
+G1|How many units should I have taken by [Quarter] quarter of my [Nth] year?|Number
+G1|Which courses fulfill the [Major|Minor][Requirement] requirement?|[Course(s)]
+G1|Which classes can I take for the [Major|Minor][Requirement] requirement?|[Course(s)]
+G1|Can I take [Course] credit no credit?|Yes or No
+G1|Can I take [Course] pass-fail?|Yes or No
+G1|Can I take [Course] and [Course] concurrently?|Yes or No
+G1|Can I take [Course] and [Course] at the same time?|Yes or No
+G1|Can [Course] and [Course] be taken concurrently?|Yes or No
+G1|Can [Course] and [Course] be taken at the same time?|Yes or No
+G1|Is [Course] a prerequisite for [Course]?|Yes or No
+G1|Do I have to take [Course] before taking [Course]?|Yes or No
+G1|Is [Course] a required course?|Yes or No
+G1|Do I have to take [Course]?|Yes or No
+G1|How many hours a week is [Course]?|Number
+G1|How much time is spent in [Course] per week?|Number of hours
+G1|Does [Course] fulfill [Major|Minor] [Requirement]?|Yes or No
+G1|Can I take [Course] to meet [Major|Minor] [Requirement]?|Yes or No
+G1|How many times is [Course] offered per year?|Number
+G1|In how many quarters is [Course] offered?|Number
+G1|When is [Course] offered?|String
+G1|When is [Course] available?|String
+G1|When can I take [Course]?|String
+G1|Is [Course] offered during [Quarter]?|Yes or No
+G1|Can I take [Course] in the [Quarter]?|Yes or No
+G1|Does [Course] fulfill more than one requirement?|Yes or No
+G1|Can I use [Course] to fulfill more than one requirement?|
+G1|Do any courses from [Department] fulfill[Requirement]?|Yes [Course] or No
+G1|Can I take a class from [Department] to meet [Requirement]?|Yes [Course] or No
+G1|Do any classes from [Department] fulfill a [Major|Minor] requirement?|Yes[Course(s)] or No
+G1|Is there any class from [Department] that fulfills a [Major|Minor] requirement?|Yes [Course(s)] or No
+G1|What are the tech electives for [Major]?|[Course(s)]
+G1|What courses are electives for [Major]?|[Course(s)]
+G1|What electives can I take to get a [Major]?|[Course(s)]
+G1|Is [Course] a tech elective for [Major]?|Yes or No
+G1|Can I take [Course] as a tech elective for [Major]?|Yes or No
+G1|How many units is [Course]?|Number
+G1|How many units does [Course] have?|Number
+G1|How many units does [Course] fulfill?|Number
+G1|What does [Course] fulfill?|[Course.fulfill]
+G1|Does [Course] fulfill anything?|Yes or No
+G1|What requirements does [Course] fulfill?|[Requirement(s)]
+G1|How many lectures does [Course] have?|Number
+G1|How many times a week does [Course] week?|Number
+G1|How many lectures make up [Course]?|Number
+G1|Does [Course] have a lab?|Yes or No
+G1|Do I have to take a lab with [Course]?|Yes or No
+G1|How many labs does [Course] have?|Number
+G1|What classes do I have to take before [Course]?|[Course(s)|None]
+G1|What classes do I need for [Course]?|[Course]?|[Course(s)|None]
+G1|What are [Course]’s prerequisites?|[Course(s)|None]
+G1|Does [Course] have any prerequisites?|Yes or No
+G1|What are the prerequisites for [Course]?|[Course(s)|None]
+G1|How many prerequisites does [Course] have?| Number
+G1|Are there any prerequisites for [Course]?|Yes or No
+G1|What classes can I take instead of [Course]?|[Course(s)]or None
+G1|What are alternatives to [Course]?|[Course(s)]or None
+G1|Are there any alternatives for [Course]?|Yes or No
+G1|How many alternative does [Course] Have?| Number
+G1|Can I take something else instead of [Course]?|Yes or No
+G1|Can I take [Course] instead of [Course]?|Yes or no
+G1|What courses substitute [Course]?|[Course(s)]or None
+
+
+[Major]: Specifies information for a stats major.
+[Minor]: Specifies information for a stats minor.
+[Course]: A course in the curriculum.
+[Quarter]: Summer, Fall, Winter, or Spring
+[Requirement]: A requirement for a degree
+[Department]: Department or Department abbreviation
+[GE Area]: Name description of the GE Area, such as Communication or Arts and Humanities
+[Nth]: Number denoting an unspecified item or instance in a series
+[Major|Minor] Major or Minor
+[Year Name] Junior, Sophomore,etc.
+[Number] Integer
+[Level Number]100,200,300,etc.

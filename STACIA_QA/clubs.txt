@@ -1,0 +1,185 @@
+A2|What is the website link for [CSSESTATClubOrgName]?|The URL is [ClubOrgURL].
+A2|Is there a website for [CSSESTATClubOrgName]?|[YesOrNo] (if yes then: The URL is [ClubOrgURL].)
+A2|How do I learn more about [CSSESTATClubOrgName]?|The URL for [CSSESTATClubOrgName] is [ClubOrgURL].
+A2|Does [CSCorSTAT] tutoring cost anything?|[TutoringPrice]
+A2|What is the cost of [CSCorSTAT] tutoring?|[TutoringPrice]
+A2|Is there free [CSCorSTAT] tutoring?|[YesOrNo] (if no then: The cost of tutoring is [TutoringPrice])
+A2|What is the email address to contact to apply to be a CSC tutor?|cstaley@calpoly.edu.
+A2|Who do I contact to be a CSC tutor?|The email is to contact is cstaley@calpoly.edu.
+A2|Which CSC tutors are available on [Day]?|[TutorName], [TutorName], ...
+A2|Where is [CSCorSTAT] tutoring?|[TutoringLocation] [TutoringLocation]
+A2|Which skills do the CSC tutors help with?|Basics of programming in Python, Java, or C, Debugging techniques and independent problem solving, Data structures, Unix shell commands, Text editor operation.
+A2|What does [CSSESTATClubOrgName] do?|[club description].
+A2|Can I get tutoring in [STATCLASSNAME]?|[STATTUTCONF].
+A2|Is tutoring available for [STATCLASSNAME]?|[STATTUTCONF].
+A2|Who should I contact for [CSSESTATClubOrgName]?|[ContactName].
+A2|Is there a contact for [CSSESTATClubOrgName]?|The contact is [ContactName].
+A2|What is the location of [CSSESTATClubOrgName]?|[Location]
+A2|Where is [CSSESTATClubOrgName]?|The club location is [Location].
+A2|What CSC classes can I get help in at general tutoring?|CSC/CPE 101, 202, 203, 225, and 141
+A2|What is the [CONTINFOTYPE] of the coordinator of the [CSSESTATClubOrgName]?|The [CONTINFOTYPE] of this coordinator is 
+A2|What does [TutorName] answer?|[CommunicationMode]
+A2|Where can I visit [CSSESTATClubOrgName] online?|The URL is [ClubOrgURL].
+A2|What is the URL for [CSSESTATClubOrgName]?|The URL is [ClubOrgURL].
+A2|How much does [CSCorSTAT] tutoring cost?|[TutoringPrice].
+A2|Is [CSCorSTAT] tutoring free?|[TutoringPrice]
+A2|Where should I email if I want to be a CSC tutor?|cstaley@calpoly.edu
+A2|Who should I contact to become a CSC tutor?|Clint Staley at cstaley@calpoly.edu.
+A2| Is [Tutorname] going to be tutoring CSC on [Day]?|[TUTOCONF]
+A2|Who will be tutoring on [Day]?|[Tutorname], [Tutorname].
+A2|Which room is [CSCorSTAT] tutoring located?|[TutoringLocation], [TutoringLocation]
+A2|Where is [STATTutoringType] located?|[TutoringLocation].
+A2|What can I get help with at CSC tutoring?|Basics of programming in Python, Java, or C, Debugging techniques and independent problem solving, Data structures, Unix shell commands, Text editor operation.
+A2|What can I expect at the CSC tutoring session?|Basics of programming in Python, Java, or C, Debugging techniques and independent problem solving, Data structures, Unix shell commands, Text editor operation.
+A2|Can you describe the [CSSESTATClubOrgName]?|[club description].
+A2|Could you give me a brief overview of [CSSESTATClubOrgName]?|[club description].
+A2|Is tutoring provided for [STATCLASSNAME]?|[STATTUTCONF]
+A2|During Stat tutoring, can I get help with [STATCLASSNAME]|[STATTUTCONF]
+A2|Who is the chief contact for [CSSESTATClubOrgName]?|[ContactName]
+A2|Who should I get in touch with for [CSSESTATClubOrgName]?|[ContactName]
+A2|Which classes will be covered in general CSC tutoring?|CSC/CPE 101, 202, 203, 225, and 141
+A2| What classes should I be enrolled in to get good help during CSC tutoring?|CSC/CPE 101, 202, 203, 225, and 141  
+A2|
+A2|What’s [STAT|CSSE] tutoring office hours?|[OfficeHours]
+A2|Can you reserve a tutor for [CSSE|STAT]?|You can reserve one for STAT, not for CSSE
+A2|How can you be a [CSSE] tutor?|Contact cstaley@calpoly.edu, tell him a little about yourself, and then we can set up an interview!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A2|How can I sign up to be paired with a Stat Club mentor?|The form for signing up for a mentor is [StatLittleForm]
+A2|Where is the form for requesting a mentor for the Stat Club?|The form for signing up for a mentor is [StatLittleForm]
+A2|How can I sign up to be a mentor with the Stat Club?|The form for signing up to be a mentor is [StatBigForm]
+A2|Where is the form for offering to be a mentor with the Stat Club?|The form for signing up to be a mentor is [StatBigForm]
+A2|Who is the [StatYear] President for the Stat Club?| [StatPresident]
+A2|Who is the [StatYear] Vice-President for the Stat Club?|[StatVicePresident]
+A2|Who is the [StatYear] Secretary for the Stat Club?|[StatSecretary]
+A2|Who is the [StatYear] Treasurer for the Stat Club?|[StatTreasurer]
+A2|Who is the [StatYear] Events Coordinator for the Stat Club?|[StatEventsCoordinator]
+A2|Who is the [StatYear] COSAM Representative for the Stat Club?|[StatCOSAMRepresentative]
+A2|Who is the [StatYear] STAT Club Liason for the Stat Club?|[StatSTATClubLiason]
+A2|Who is the [StatYear] Open House Officer for the Stat Club?|[StatOpenHouse]
+A2|Who is the [StatYear] STAT Lab Liaison for the Stat Club?|[StatSTATLabLiaison]
+A2|Who are the current advisers for the Stat Club?|The current advisers are: [StatAdvisers]
+A2|What is the general contact information for [CSSESTATClubOrgName]?|The email is [ClubGenEmail] and the phone number is [ClubGenPhone]
+A2|Who is the current President for CPGD?|[CPGDPresident]
+A2|Who is the current Vice President for CPGD?|[CPGDVicePresident]
+A2|Who is the current Secretary for CPGD?|[CPGDSecretary]
+A2|Who is the current Treasurer for CPGD?|[CPGDTreasurer]
+A2|Where does CPGD meet?|[CPGDRoom]
+A2|When does CPGD meet?|[CPGDTime]
+A2|Who is the current President for White Hat?|[WhiteHatPresident]
+A2|Who is the current Vice President for White Hat?|[WhiteHatVicePresident]
+A2|Who is the current Archivist for White Hat?|[WhiteHatArchivist]
+A2|Who is the current Publicity Officer for White Hat?|[WhiteHatPublicity]
+A2|Who is the current Social Chair for White Hat?|[WhiteHatSocialChair]
+A2|Who is the current Treasurer for White Hat?|[WhiteHatTreasurer]
+A2|Who is the current CTF Master for White Hat?|[WhiteHatCTFMaster]
+A2|Who is the current Assistant CTF Master for White Hat?|[WhiteHatAssistantCTFMaster]
+A2|Who is the current Hardware Outreach for White Hat?|[WhiteHatHardwareOutreach]
+A2|Who is the current Web Master for White Hat?|[WhiteHatWebMaster]
+A2|Who is the current SysAdmin for White Hat?|[WhiteHatSysAdmin]
+A2|What room is the lab for White Hat?|[WhiteHatRoom]
+A2|Who is the current President for App Dev Club?|[AppDevPresident]
+A2|Who is the current Vice President for App Dev Club?|[AppDevVicePresident]
+A2|Who is the current Corporate Relations Officer for App Dev Club?|[AppDevCRO]
+A2|Who is the current Treasurer for App Dev Club?|[AppDevTreasurer]
+A2|Who is the current Communications Officer for App Dev Club?|[AppDevCommunicationsOfficer]
+A2|Who is the current Webmaster for App Dev Club?|[AppDevWebmaster]
+A2|Who is the current President for Robotics Club?|[RCPresident]
+A2|Who is the current Vice President for Robotics Club?|[RCVicePresident]
+A2|What room does Robotics Club meet?|[RCRoom]
+A2|What time does [CSCorSTAT] tutoring meet?|[TutorTime] (if CSC, also insert note on how tutors will leave if no present students within 15 minutes)
+A2|Who are some private tutors for Statistics?|Here is a PDF for a list of private Statistics tutors [StatTutorPDF]
+A2|What do I need to do to be a CSC tutor?|Complete (or be enrolled in) CSC 357 and schedule an interview with Dr. Clint Staley
+A2|Does [CSSESTATClubOrgName] have a [OfficerRole] position?|[YesOrNo]
+A2|Who is the club adviser for [CSSESTATClubOrgName]?|The club adviser for [CSSESTATClubOrgName] is [FacultyAdviser]
+
+
+[StatLittleForm]: Link to the online survey form for mentees seeking mentors with the Stat Club
+[StatBigForm]: Link to the online survey form for offering to be a mentor with the Stat Club
+[StatYear]: Stat Club website lists the (seemingly) past 2 years worth of officers, is something of the form "2018-2019" or "2017-2018"
+[StatPresident]: The President for Stat Club for the specified year if it exists (some officer roles only appear in specific years and some only in specific clubs)
+[StatVicePresident]: The Vice President for Stat Club for the specified year if it exists
+[StatSecretary]: The Secretary for Stat Club for the specified year if it exists
+[StatTreasurer]: The Treasurer for Stat Club for the specified year if it exists
+[StatEventsCoordinator]: The Events Coordinator for Stat Club for the specified year if it exists
+[StatCOSAMRepresentative]: The COSAM Representative for Stat Club for the specified year if it exists
+[StatSTATClubLiason]: The Club Liason for Stat Club for the specified year if it exists (strangely possibly different than Lab Liason)
+[StatOpenHouse]: The Open House Officer for Stat Club for the specified year if it exists
+[StatSTATLabLiaison]: The LabLiaison for Stat Club for the specified year if it exists
+[StatAdvisers]: Newline seperated list of the advisers for the Stat Club
+[CSSESTATClubOrgName]: The name of a CSC, SE, or STAT department affiliated club
+[ClubGenEmail]: Club general contact email (if it exists)
+[ClubGenPhone]: Club general contact phone (if it exists)
+[CPGDPresident]: Current (based on website, which may be outdated) Cal Poly Game Development Club President
+[CPGDVicePresident]: Current Cal Poly Game Development Club (CPGD) Vice President
+[CPGDSecretary]: Current CPGD Secretary
+[CPGDTreasurer]: Current CPGD Treasurer
+[CPGDRoom]: Current CPGD Meeting Room
+[CPGDTime]: Current CPGD (weekly) Meeting Time
+[WhiteHatPresident]: Current White Hat (WH) President
+[WhiteHatVicePresident]: Current WH Vice President
+[WhiteHatArchivist]: Current WH Archivist
+[WhiteHatPublicity]: Current WH Publicity Officer
+[WhiteHatSocialChair]: Current WH Social Chair
+[WhiteHatTreasurer]: Current WH Treasurer
+[WhiteHatCTFMaster]: Current WH CTF Master
+[WhiteHatAssistantCTFMaster]: Current WH Assistant CTF Master
+[WhiteHatHardwareOutreach]: Current WH Hardware Outreach
+[WhiteHatWebMaster]: Current WH Web Master
+[WhiteHatSysAdmin]: Current WH Sys Admin
+[WhiteHatRoom]: Current WH Meeting Room
+[AppDevPresident]: Current Cal Poly App Dev Club (ADC) President
+[AppDevVicePresident]: Current ADC Vice President
+[AppDevCRO]: Current ADC Corporate Relations Officer
+[AppDevTreasurer]: Current ADC Treasurer
+[AppDevCommunicationsOfficer]: Current ADC Communications Officer
+[AppDevWebmaster]: Current ADC Webmaster
+[RCPresident]: Current Cal Poly Robotics Club (RC) President
+[RCVicePresident]: Current RC Vice President
+[RCRoom]: Current RC Meeting Room
+[CSCorSTAT]: "CSC" for Computer Science, or "STAT" for Statistics
+[TutorTime]: Department Free Tutoring Time/Hours
+[StatTutorPDF]: Link to the Statistics Department provided file of private tutors for Statistics (rates apparently vary)
+[OfficerRole]: A position such as "President" or "Corporate Outreach Officer"
+[YesOrNo]: A "Yes" answer, or a "No" answer
+[FacultyAdviser]: A Faculty member that acts as the adviser for a club
+[CSCorSTAT]: Either CSC or STAT, depending on what information is to be retrieved.
+[CSSESTATClubOrgName]: Full name of Computer Science or Statistics Club or organization
+[ClubOrgUrl]: URL of the webpage of the club
+[TutoringPrice]: Price of tutoring, usually free but private tutoring for STAT can vary, and this fact will be stated.
+[Day]: Days of the week, Monday-Friday
+[TutorName]: First name of Tutor
+[TutoringLocation]: Building and Room number of tutoring
+[club description]: a brief club description scraped from official site
+[STATCLASSNAME]: Name of Statistics class e.g. STAT 312
+[STATTUTCONF]: Yes or no, depending on whether tutoring is offered
+[CONTINFOTYPE] Type of communication: Phone number, email, etc

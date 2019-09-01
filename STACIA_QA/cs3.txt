@@ -1,0 +1,144 @@
+C1 | Where is the office located? | The office is located in [LOCATION].
+C1 | When is the office open? | The office is open [TIME].
+C1 | What days is the office open? | The office is open [DAYS].
+C1 | Where do I park? | You can park in [LOCATION].
+C1 | How can I reach the office? | The office can be reached in the following way(s): [CONTACT].
+C1 | What is the office phone number? | The office phone number is [PHONE].
+C1 | What is the office fax number? | The office fax number is [PHONE].
+C1 | Is there an office email? | The office email is [EMAIL].
+C1 | What building is the department in? | The department is in building [BUILDING NUMBER].
+C1 | Is the statistics department on facebook? | Yes, here is the link to our facebook page [LINK].
+C1 | Is the department on instagram? | Yes, here is the link to our instagram page [LINK].
+C1 | Is the statistics department on twitter? | Yes, here is the link to our twitter page [LINK].
+C1 | Is the department on linkedin? | Yes, here is the link to our linkedin page [LINK].
+C1 | Is the statistics department on youtube? | Yes, here is the link to our youtube page [LINK].
+C1 | Is the statistics department on flickr? | Yes, here is the link to our flickr page [LINK].
+C1 | What is the statistics department mission? | The statistics department’s mission is [DEPT STATEMENT].
+C1 | Does the department offer tutoring? | Yes. Refer to the [AREA] bot for more information.
+C1 | What are the learning goals of the statistics department? | The learning goals of the department are [GOALS].
+C1 | What is a graduate of the statistics department expected to know? | Statistics students are expected to [GOALS].
+C1 | What will I learn as a statistics student at Cal Poly? | Statistics students are expected to [GOALS].
+C1 | What college is statistics in? | The College of Science and Math.
+C1 | Is there a statistics newsletter? | Yes, you can find the stats newsletter here: [LINK].
+C1 | Where can I access the statistics newsletter? | You can access the newsletter here: [LINK].
+C1 | How can I distribute information to the statistics department? | Contact [NAME].
+C1 | Who works at the office? | [NAME].
+C1 | What are the names of the staff members in the statistics department? | The staff members are: [NAME].
+C1 | How can I reach [NAME]? | You can reach [NAME] at [CONTACT].
+C1 | What is [NAME] phone number? | You can contact [NAME] at [PHONE].
+C1 | What is [NAME] email? | You can contact [NAME] at [EMAIL].
+C1 | Where is [NAME]’s office? | [NAME]’s office is in [LOCATION].
+C1 | Where are the staff mailboxes in the statistics department? | The department office is located in [LOCATION].
+C1 | How many professors are there in the statistics department? | There are [INTEGER] professors.
+C1 | Who is the statistics department dean? | [NAME].
+C1 | How many staff members are there in the statistics department? |There are [INTEGER] staff members in the statistics department.
+C1 | What is [NAME]’s phone number? | [NAME]’s phone number is [PHONE].
+C1 | How many faculty members are there in the statistics department? | There are [INTEGER] staff members in the statistics department.
+C1 | Does the statistics department sponsor events? | Yes, the next event is [EVENT].
+C1 | What is the next event that the statistics department is putting on? | The next event is [EVENT].
+C1 | When is the next event in the statistics department? | The next event is [DATE/TIME].
+C1 | When is [EVENT]? | [EVENT] is [DATE/TIME].
+C1 | What events are going on in the statistics department? | The following events are happening: [EVENT].
+C1 | Are there any guest speakers today in the statistics department? | Yes, [EVENT]. / No.
+C1 | When is the next guest speaker in the statistics department? | The next guest speaker is [DATE/TIME].
+C1 | What is the name of the next guest speaker in the statistics department? | The next guest speaker is [NAME].
+C1 | Is there an end-of-the-year banquet in the statistics department? | Yes. 
+C1 | When is the statistics banquet? | The banquet is [DATE/TIME].
+C1 | What is the SAS competition? | The SAS competition is [INFO].
+C1 | How can I support the statistics department? | You can support the department in one of the following ways: [OPTIONS].
+C1 | Does the statistics department accept donations? | Yes. Here is a link to the donations page: [LINK].
+C1 | Where can I give donations to the statistics department? | [OPTIONS].
+C1 | Who has donated to the statistics department? | Here is the list of donors: [NAME].
+C1 | How many students are there in the stats major? | There are [INTEGER] students.
+C1 | How many students are there in the stats minor? | There are [INTEGER] students.
+C1 | What is the unit requirement for the statistics major? | The unit requirement is [INTEGER] units.
+C1 | Does the department offer minors? | Yes, the minors offered are: [MINOR NAME]. 
+C1 | What minors are offered by the statistics department? | The statistics department offers [NAME]. 
+C1 | Is there a statistics minor? | Yes. You can get more information from the [AREA] bot.
+C1 | What classes do statistics minors need to take? | Refer to the [AREA] bot.
+C1 | How many classes do statistics minors need to take? | Refer to the [AREA] bot.
+C1 | What classes do statistics majors need to take? | Refer to the [AREA] bot.
+C1 | How many classes do statistics majors need to take? | Refer to the [AREA] bot.
+C1 | Who should I contact about the statistics minor? |Refer to the [AREA] bot.
+C1 | How many statistics minors are there? | There are [INTEGER] statistics minors. 
+C1 | How many data science minors are there? | There are [INTEGER] data science minors. 
+C1 | How many actuarial preparation minors are there? | There are [INTEGER] actuarial preparation minors. 
+C1 | What are some minors that statistics students pick up? | The department offers the following minors: [NAME].
+C1 | What is the unit requirement for the statistics minor? | Refer to the [AREA] bot.
+C1 | Where do I turn in minor forms? | The minor forms can be turned in [LOCATION].
+C1 | Is the Data Science Minor affiliated with the department? | Yes. Refer to the [AREA] bot for more information.
+C1 | Does Cal Poly offer a MS in Statistics? | No.
+C1 | Is there a Statistics masters? | No.
+C1 | What is the SAS certificate program? |The SAS certification program is [INFO].
+C1 | What courses does the statistics department offer? | Refer to the [AREA] bot.
+C1 | Can you double major with statistics? | Refer to the [AREA] bot.
+C1 | Where are the statistics minor forms? | The minor forms are [LOCATION].
+C1 | What are the introductory statistics classes? | Refer to the [AREA] bot.
+C1 | Are there any concentrations available in statistics? | No. 
+C1 | Does the department offer [COURSE NAME]. | Yes/No.
+C1 | What class is [COURSE NUMBER]? | [COURSE DESCRIPTION].
+C1 | What will I learn in [COURSE NUMBER]? | [COURSE DESCRIPTION].
+C1 | Is there a class on [COURSE NAME]?. | Yes, the class is [COURSE NUMBER]./No.
+C1 | What class is [COURSE NAME]? | [COURSE NUMBER].
+C1 | What is the name of [COURSE NUMBER]? | [COURSE NAME].
+C1 | How many units is [COURSE NAME]? | [INTEGER] units.
+C1 | How many units is [COURSE NUMBER]? | [INTEGER] units.
+C1 | Are there any workshops or study sessions available for [COURSE NUMBER]? | Refer to the [AREA] bot.
+C1 | Is there a statistics club? | Yes, Refer to the [AREA] bot for more information. 
+C1 | Does the department sponsor any clubs? | Yes, there is a statistics club.
+C1 | How do I join the statistics club? | Refer to the [AREA] bot.
+C1 | Does the statistics department offer grants? | Yes, the statistics department offers [NAME].
+C1 | Does the statistics department offer scholarships? | Yes, the statistics department offers [NAME].
+C1 | Does the department offer financial aid? | Yes, you can get more information here [LINK].
+C1 | How do I apply for scholarships? | More information about scholarships can be found here: [LINK].
+C1 | Does the department recognize high-achieving students? | Yes, the department offers awards and scholarships to students. 
+C1 | Who should I reach out to about my advisor? | [NAME].
+C1 | Where is the statistics advising center? | The advising center is in [LOCATION].
+C1 | Where can I get career advice? | The College of Science and Math has an advising center, get more information here [LINK].
+C1 | Does the statistics department offer consulting? | Yes. 
+C1 | What consulting does the department offer? | [INFO].
+C1 | Who can I contact about consulting in the statistics department? | You can contact [ NAME].
+C1 | How much is the consulting? |  [INFO].
+C1 | Are there research opportunities? | Yes, you can get more information about research here: [LINK].
+C1 | What are there research opportunities? | [INFO].
+C1 | Is there a professor doing research in [FIELD]? | Yes. / No.
+C1 | What is the Frost research program?  | The Frost research program is [INFO].
+ C1 | How do I apply for research opportunities within the statistics department? | You can apply here [LINK].
+C1 | Are research opportunities paid? | Refer to the specific research opportunity here [LINK].
+C1 | Are there any department-sponsored statistics projects? | [INFO].
+C1 | Is there an alumni network? | Yes, [INFO].
+C1 | How can I contact statistics alumni? | Contact alumni here [CONTACT].
+C1 | Are there grading positions available within the statistics department? | Yes, you should contact [NAME] for more information. 
+C1 | Are there any TA positions? | Yes, you should contact [NAME] for more information. 
+C1 | Can I be a teachers assistant within the statistics department? | Yes, you should contact [NAME] for more information. 
+C1 | Can I sign up as a tutor? | Yes, refer to the [AREA] bot for more information.
+C1 | Are there any jobs available within the statistics department? | You should contact [NAME] for more information. 
+C1 | Are there tutoring positions available? | There may be, you should refer to the [AREA] bot for more information.
+C1 | Can I work with other people for my senior project? | You should contact your advisor.
+C1 | Can I work with people in other majors for statistics my senior project? | You should contact your advisor.
+C1 | What are my options for the senior project? | You should contact your advisor.
+C1 | Where can I access previous students senior projects? | You can attend the senior project presentations.
+C1 | How can I get advice about a senior project idea? | You should contact your advisor.
+
+[LOCATION]: Name of the territory (lot/building and room/lawn) as defined by Cal Poly.
+[TIME]: Time(s) in hours and minutes. Could be an interval. 
+[DAYS]: Names of the days of the week.
+[CONTACT]: Phone/email/link that can be used to reach a person.
+[PHONE]: A 10 digit phone number.
+[EMAIL]: Email address.
+[BUILDING NUMBER]: Cal Poly defined building number, an integer.
+[LINK]: A URL link to a separate source.
+[DEPT STATEMENT]: The mission statement corresponding to a department.
+[AREA]: Area corresponding to one of the 10 project areas to refer to other bots.
+[GOALS]: A string of expectations corresponding to a certain goal.
+[NAME]: The name of a person.
+[INTEGER]: An integer number corresponding to a question.
+[EVENT]: Name of event.
+[DATE/TIME]: The date on the calendar with and hour and minute description of time.
+[INFO]: A string of information answering the question.
+[OPTIONS]: A list of options answering the question.
+[MINOR NAME]: The official Cal Poly name of a minor.
+[COURSE NAME]: The official Cal Poly name of a course.
+[COURSE NUMBER]: The official Cal Poly number for a statistic course.
+[COURSE DESCRIPTION]: The official Cal Poly description for a given statistic course.
+[FIELD]: A specific area of study offered at Cal Poly.

@@ -1,0 +1,137 @@
+H1|What terms is [CLASS_NAME] typically offered?|[CLASS_NAME] is offered in [QUARTER_LIST].
+H1|What terms is [CLASS_CODE] typically offered?|[CLASS_CODE] is offered in [QUARTER_LIST].
+H1|Which terms is [CLASS_NAME] offered?|[CLASS_NAME] is offered in [QUARTER_LIST].
+H1|Which terms is [CLASS_CODE] offered?|[CLASS_CODE] is offered in [QUARTER_LIST].
+H1|Is [CLASS_NAME] offered in [QUARTER]?|Yes, [CLASS_NAME] is offered in [QUARTER].
+H1|Is [CLASS_CODE] offered in [QUARTER]?|Yes, [CLASS_CODE] is offered in [QUARTER].
+H1|Can I take [CLASS_NAME] in [QUARTER] quarter?|Yes, [CLASS_NAME] is offered in [QUARTER].
+H1|Can I take [CLASS_CODE] in [QUARTER] quarter?|Yes, [CLASS_CODE] is offered in [QUARTER].
+H1|Which classes are rarely offered?|[CLASS_CODE_LIST] do not have defined term offerings.
+H1|Which classes are offered in [QUARTER]?|[CLASS_CODE_LIST] are offered in [QUARTER].
+H1|How many classes are offered in [QUARTER] quarter?|[NUMBER] classes are offered in [QUARTER].
+H1|Which classes are only taught in the [QUARTER]?|[CLASS_CODE_LIST] are offered only in [QUARTER].
+H1|Which term typically offers the most course variety?|[QUARTER] typically offers the most course variety.
+H1|Which term typically offers the least course variety?|[QUARTER] typically offers the least course variety.
+H1|Which term typically offers the most [COURSE_LEVEL] level courses?|[QUARTER] typically offers the most [COURSE_LEVEL] level courses.
+H1|Which term typically offers the least [COURSE_LEVEL] level courses?|[QUARTER] typically offers the least [COURSE_LEVEL] level courses.
+H1|Does [QUARTER] offer any [COURSE_LEVEL] courses?|Yes, [QUARTER] offers [NUMBER] [COURSE_LEVEL] level courses.
+H1|Which [COURSE_LEVEL] courses are offered in [QUARTER]?|[CLASS_CODE_LIST] are offered in [QUARTER].
+H1|Which term typically offers the most upper division courses?|[QUARTER] typically offers the most upper division courses.
+H1|Which term typically offers the least upper division level courses?|[QUARTER] typically offers the least upper division courses.
+H1|Does [QUARTER] offer any upper division courses?|Yes, [QUARTER] typically offers [NUMBER] upper division courses.
+H1|Which upper division courses are offered in [QUARTER]?|[CLASS_CODE_LIST] are typically offered in [QUARTER].
+H1|Which term typically offers the most lower division courses?|[QUARTER] typically offers the most lower division courses.
+H1|Which term typically offers the least lower division courses?|[QUARTER] typically offers the least lower division courses.
+H1|Does [QUARTER] offer any lower division courses?|Yes, [QUARTER] typically offers [NUMBER] lower division courses.
+H1|Which lower division courses are offered in [QUARTER]?|[CLASS_CODE_LIST] are typically offered in [QUARTER].
+H1|Which classes require consent of instructor?|[CLASS_CODE_LIST] require consent of instructor.
+H1|Does [CLASS_NAME] require consent of instructor?|Yes, [CLASS_NAME] requires consent of instructor.
+H1|Does [CLASS_CODE] require consent of instructor?|Yes, [CLASS_CODE] requires consent of instructor.
+H1|Can I get into [CLASS_NAME] with instructor’s consent?|Yes, [CLASS_NAME] can be taken with instructor’s consent.
+H1|Can I get into [CLASS_CODE] with instructor’s consent?|Yes, [CLASS_CODE] can be taken with instructor’s consent.
+H1|What are the prerequisites for [CLASS_NAME]?|The prerequisites for [CLASS_NAME] are [CLASS_CODE_LIST].
+H1|What are the prerequisites for [CLASS_CODE]?|The prerequisites for [CLASS_CODE] are [CLASS_CODE_LIST].
+H1|What classes do I have to take before [CLASS_NAME]?|The prerequisites for [CLASS_NAME] are [CLASS_CODE_LIST].
+H1|What classes do I have to take before [CLASS_CODE]?|The prerequisites for [CLASS_CODE] are [CLASS_CODE_LIST].
+H1|What are the recommended prerequisites for [CLASS_NAME]?|The recommended prerequisites for [CLASS_NAME] are [CLASS_CODE_LIST].
+H1|What are the recommended prerequisites for [CLASS_CODE]?|The recommended prerequisites for [CLASS_CODE] are [CLASS_CODE_LIST].
+H1|What classes do I need in order to take [CLASS_NAME]?|The recursive prerequisites for [CLASS_NAME] are [CLASS_CODE_LIST].
+H1|What classes do I need in order to take [CLASS_CODE]?|The recursive prerequisites for [CLASS_NAME] are [CLASS_CODE_LIST].
+H1|Is [CLASS_NAME] a prerequisite for [CLASS_NAME]?|Yes, [CLASS_NAME] is a prerequisite for [CLASS_NAME].
+H1|Is [CLASS_CODE] a prerequisite for [CLASS_CODE]?|Yes, [CLASS_CODE] is a prerequisite for [CLASS_CODE].
+H1|Which classes have [CLASS_NAME] as a prerequisite?|[CLASS_CODE_LIST] have [CLASS_NAME] as a prerequisite.
+H1|Which classes have [CLASS_CODE] as a prerequisite?|[CLASS_CODE_LIST] have [CLASS_CODE] as a prerequisite.
+H1|Which classes have no prerequisites?|[CLASS_CODE_LIST] have no prerequisites.
+H1|Which classes have more than [NUMBER] prerequisites?|[CLASS_CODE_LIST] have more than [NUMBER] prerequisites.
+H1|Which classes have less than [NUMBER] prerequisites?|[CLASS_CODE_LIST] have less than [NUMBER] prerequisites.
+H1|Which classes have an upper divisional prerequisite?|[CLASS_CODE_LIST] have an upper divisional prerequisite.
+H1|Which classes have no upper divisional prerequisite?|[CLASS_CODE_LIST] have no upper divisional prerequisite.
+H1|Does [CLASS_NAME] have an upper divisional prerequisite?|Yes, [CLASS_NAME] has an upper divisional prerequisite.
+H1|Does [CLASS_CODE] have an upper divisional prerequisite?|Yes, [CLASS_CODE] has an upper divisional prerequisite.
+H1|Which classes require a C- or better in another course?|[CLASS_CODE_LIST] require a C- or better in another course.
+H1|Does [CLASS_NAME] require a C- or better in [CLASS_NAME]?|Yes, [CLASS_NAME] requires a C- or better in [CLASS_NAME].
+H1|Does [CLASS_CODE] require a C- or better in [CLASS_CODE]?|Yes, [CLASS_CODE] requires a C- or better in [CLASS_CODE].
+H1|Do I need a C- or better in [CLASS_NAME] to take any other classes?|Yes, a C- or better in [CLASS_NAME] is required to take [CLASS_CODE_LIST].
+H1|Do I need a C- or better in [CLASS_CODE] to take any other classes?|Yes, a C- or better in [CLASS_CODE] is required to take [CLASS_CODE_LIST].
+H1|What is the shortest path to taking [CLASS_NAME]?|The shortest path to taking [CLASS_NAME] is by taking [CLASS_CODE_LIST].
+H1|What classes are prerequisites for the most other classes?|[CLASS_CODE_LIST] are prerequisites for [NUMBER] other classes.
+H1|Which classes require [CLASS_QUALIFICATION] standing?|[CLASS_NAME_LIST] require [CLASS_QUALIFICATION].
+H1|Which classes do not require [CLASS_QUALIFICATION] standing?|[CLASS_NAME_LIST] do not require [CLASS_QUALIFICATION].
+H1|Does [CLASS_NAME] require [CLASS_QUALIFICATION] standing?|Yes, [CLASS_NAME] requires [CLASS_QUALIFICATION] standing.
+H1|Does [CLASS_CODE] require [CLASS_QUALIFICATION] standing?|Yes, [CLASS_CODE] requires [CLASS_QUALIFICATION] standing.
+H1|When do most people take [CLASS_NAME]?|Most people take [CLASS_NAME] during [QUARTER] of their [CLASS_QUALIFICATION] year.
+H1|Which classes are limited in total credit?|[CLASS_NAME_LIST] are limited in total credit.
+H1|Is [CLASS_NAME] limited in total credit?|[CLASS_NAME] is limited in total credit.
+H1|Is [CLASS_CODE] limited in total credit?|[CLASS_CODE] is limited in total credit.
+H1|Which classes count as a tech elective?|[CLASS_NAME_LIST] count as technical electives.
+H1|Can I select [CLASS_NAME] as a tech elective?|Yes, [CLASS_NAME] can be selected as a technical elective.
+H1|Which classes include a lab section?|[CLASS_NAME_LIST] include a lab section.
+H1|Which classes include lecture only?|[CLASS_NAME_LIST] include lecture only.
+H1|Which classes are seminars?|[CLASS_NAME_LIST] are seminars.
+H1|What is the structure of [CLASS_NAME]?|[CLASS_NAME] is a [STRUCTURE] class.
+H1|What is the structure of [CLASS_CODE]?|[CLASS_CODE] is a [STRUCTURE] class.
+H1|How many units is [CLASS_NAME]?|[CLASS_NAME] is worth [NUMBER] units.
+H1|How many units is [CLASS_CODE]?|[CLASS_CODE] is worth [NUMBER] units.
+H1|Which classes are [NUMBER] units?|[CLASS_NAME_LIST] are worth [NUMBER] units.
+H1|Is [CLASS_NAME] a [NUMBER] unit course?|Yes, [CLASS_NAME] is a [NUMBER] unit class.
+H1|Is [CLASS_CODE] a [NUMBER] unit course?|Yes, [CLASS_CODE] is a [NUMBER] unit class.
+H1|Is [CLASS_NAME] worth more units than [CLASS_NAME]?|Yes, [CLASS_NAME] is worth more units than [CLASS_NAME].
+H1|Is [CLASS_CODE] worth more units than [CLASS_CODE]?|Yes, [CLASS_CODE] is worth more units than [CLASS_CODE].
+H1|Which classes are crosslisted in another department?|[CLASS_NAME_LIST] are crosslisted in another department.
+H1|Is [CLASS_NAME] crosslisted in another department?|Yes, [CLASS_NAME] is crosslisted in another department.
+H1|Is [CLASS_CODE] crosslisted in another department?|Yes, [CLASS_CODE] is crosslisted in another department.
+H1|Which classes are crosslisted in [DEPARTMENT_ABBREVIATION]?|[CLASS_NAME_LIST] are crosslisted in [DEPARTMENT_ABBREVIATION].
+H1|Is [CLASS_NAME] crosslisted in [DEPARTMENT_ABBREVIATION]?|Yes, [CLASS_NAME] is crosslisted in [DEPARTMENT_ABBREVIATION].
+H1|Is [CLASS_CODE] crosslisted in [DEPARTMENT_ABBREVIATION]?|Yes, [CLASS_NAME] is crosslisted in [DEPARTMENT_ABBREVIATION].
+H1|Which classes are credit/no credit grading only?|[CLASS_NAME_LIST] are credit/no credit grading only.
+H1|Is [CLASS_NAME] credit/no credit grading only?|Yes, [CLASS_NAME] is credit/no credit grading only.
+H1|Is [CLASS_CODE] credit/no credit grading only?|Yes, [CLASS_CODE] is credit/no credit grading only.
+H1|What is [CLASS_NAME] about?|[CLASS_NAME] covers the following topics:  [SUBJECT_MATTER_LIST].
+H1|What is [CLASS_CODE] about?|[CLASS_CODE] covers the following topics:  [SUBJECT_MATTER_LIST].
+H1|What topics are covered in [CLASS_NAME]?|[CLASS_NAME] covers the following topics:  [SUBJECT_MATTER_LIST].
+H1|What topics are covered in [CLASS_CODE]?|[CLASS_CODE] covers the following topics:  [SUBJECT_MATTER_LIST].
+H1|Which classes include [SUBJECT_MATTER]?|The following classes cover [SUBJECT_MATTER]: [CLASS_NAME_LIST].
+H1|Which classes don’t include [SUBJECT_MATTER]?|The following classes do not cover [SUBJECT_MATTER]: [CLASS_NAME_LIST].
+H1|Does [CLASS_NAME] include [SUBJECT_MATTER]?|Yes. [CLASS_NAME] includes [SUBJECT_MATTER].
+H1|What is the course title for [CLASS_CODE]?|The course title for [CLASS_CODE] is [CLASS_NAME].
+H1|What is [CLASS_CODE] also called?|[CLASS_CODE] is also called [CLASS_NAME].
+H1|What is the name of [CLASS_CODE]?|The course title for [CLASS_CODE] is [CLASS_NAME].
+H1|What is the course code for [CLASS_NAME]?|The course code for [CLASS_NAME] is [CLASS_CODE].
+H1|Which classes include group work?|The following classes include group work: [CLASS_NAME_LIST].
+H1|Does [CLASS_NAME] include group work?|Yes. [CLASS_NAME] includes group work.
+H1|Which classes are project based?|The following classes are project based: [CLASS_NAME_LIST].
+H1|Is [CLASS_NAME] project based?|Yes. [CLASS_NAME] is project based.
+H1|What class should I take after [CLASS_NAME]?|After taking [CLASS_NAME] you could take [CLASS_NAME].
+H1|What classes build off [CLASS_NAME]?|The following classes build off of [CLASS_NAME]: [CLASS_NAME_LIST].
+H1|Which classes are two-part sequences?|The following classes are two-part sequence classes: [CLASS_CODE] and [CLASS_CODE], ... [CLASS_CODE] and [CLASS_CODE].
+H1|Which classes are introductory studies?|The following classes are are introductory study classes: [CLASS_NAME_LIST].
+H1|Which classes fulfill GE Area [GE_AREA]?|The following classes fulfill GE Area [GE_AREA]: [CLASS_NAME_LIST].
+H1|Does [CLASS_NAME] fulfill GE Area [GE_AREA]?|Yes. [CLASS_NAME] fulfills GE Area [GE_AREA].
+H1|Does [CLASS_CODE] fulfill GE Area [GE_AREA]?|Yes. [CLASS_CODE] fulfills GE Area [GE_AREA].
+H1|Can I fulfill my [GE_AREA] with [CLASS_NAME]?|Yes. [CLASS_NAME] fulfills GE Area [GE_AREA].
+H1|Can I fulfill my [GE_AREA] with [CLASS_CODE]?|Yes. [CLASS_CODE] fulfills GE Area [GE_AREA].
+H1|Which classes are most similar to [CLASS_NAME]?|The following classes are most similar to [CLASS_NAME]: [CLASS_NAME_LIST].
+H1|What are the similarities between [CLASS_NAME] and [CLASS_NAME]?|[CLASS_NAME] and [CLASS_NAME] both cover the following topics: [SUBJECT_MATTER_LIST].
+H1|What are the differences between [CLASS_NAME] and [CLASS_NAME]?|While [CLASS_NAME] covers [SUBJECT_MATTER_LIST], [CLASS_NAME] covers [SUBJECT_MATTER_LIST].
+H1|What technical electives should I select to focus on [SUBJECT_MATTER]?|The following technical elective classes cover [SUBJECT_MATTER]: [CLASS_NAME_LIST].
+H1|What technical electives should I select to do research in [SUBJECT_MATTER]?|The following technical elective classes cover [SUBJECT_MATTER]: [CLASS_NAME_LIST].
+H1|What are some good tech electives to study [SUBJECT_MATTER]?|They are all good.
+H1|What classes should I take with [CLASS_NAME]?|The following classes go well with [CLASS_NAME]: [CLASS_NAME_LIST].
+H1|What classes should I take to get a job in [SUBJECT_MATTER]?|The following classes help provide experience in [SUBJECT_MATTER]: [CLASS_NAME_LIST].
+H1|What subjects are also commonly studied with [SUBJECT_MATTER]?|The following course subjects are commonly covered with [SUBJECT_MATTER]: [SUBJECT_MATTER_LIST].
+
+
+[CLASS_NAME]: The name of a course
+[CLASS_NAME_LIST]: One or more class names
+[CLASS_CODE]: The department abbreviation and number of a course
+[CLASS_CODE_LIST]: One or more class codes
+[QUARTER]: The season of a quarter
+[QUARTER_LIST]: One or more quarters
+[CLASS_QUALIFICATION]: An individual’s class standing
+[NUMBER]: A number
+[DEPARTMENT_ABBREVIATION]: The three-letter abbreviation for a department
+[SUBJECT_MATTER]: A topic covered by a course
+[SUBJECT_MATTER_LIST]: One or more subject matters
+[GE_AREA]: A GE area abbreviation
+[COURSE_LEVEL]: A generic course level
+[STRUCTURE]: The format of a class being Lecture/Lab or Lecture only
