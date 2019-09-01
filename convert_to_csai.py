@@ -8,9 +8,13 @@ DIR = join(getcwd(), DATA_DIR)
 
 files = listdir(DATA_DIR)
 
-cs_files = [f for f in filter(lambda x: x.startswith('cs'), files)]
-stat_files = [f for f in filter(lambda x: x.startswith('stat'), files)]
-club_files = [f for f in filter(lambda x: x.startswith('club'), files)]
+
+def startswith(y):
+    return lambda x: x.startswith(y)
+
+cs_files = [f for f in filter(startswith('cs'), files)]
+stat_files = [f for f in filter(startswith('stat'), files)]
+club_files = [f for f in filter(startswith('club'), files)]
 
 # encodings: https://stackoverflow.com/q/19699367/5411712
 for fname in cs_files:
