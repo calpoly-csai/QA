@@ -31,3 +31,8 @@ if __name__ == "__main__":
         print("hello",end='\t')
     s.seek(0)
     print(s.read())
+
+    # also works with text file
+    log = open('log_RedirectStdStreams.txt', 'w') 
+    with RedirectStdStreams(stdout=log):
+        print("hello",end='\t')
