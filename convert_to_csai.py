@@ -35,13 +35,25 @@ for fname in cs_files:
     print(fname,"done","....on to the next one....")
 
 for fname in stat_files:
-    pd.read_csv(join(DIR, fname), 
-                sep='|', 
-                encoding='latin_1',
-                error_bad_lines=False)
+    warnings = StringIO() # to catch the warnings
+    with RedirectStdStreams(stderr=warnings):
+        pd.read_csv(join(DIR, fname), 
+                    sep='|',
+                    encoding='latin_1',
+                    error_bad_lines=False,
+                    warn_bad_lines=True)
+    warnings.seek(0)
+    print("warnings??",warnings.read())
+    print(fname,"done","....on to the next one....")
 
 for fname in club_files:
-    pd.read_csv(join(DIR, fname), 
-                sep='|', 
-                encoding='latin_1',
-                error_bad_lines=False)
+    warnings = StringIO() # to catch the warnings
+    with RedirectStdStreams(stderr=warnings):
+        pd.read_csv(join(DIR, fname), 
+                    sep='|',
+                    encoding='latin_1',
+                    error_bad_lines=False,
+                    warn_bad_lines=True)
+    warnings.seek(0)
+    print("warnings??",warnings.read())
+    print(fname,"done","....on to the next one....")
