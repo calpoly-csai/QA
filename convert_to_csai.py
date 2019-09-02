@@ -23,9 +23,10 @@ club_files = [f for f in filter(startswith('club'), files)]
 # list-of-encodings: 
 # https://docs.python.org/3/library/codecs.html#standard-encodings
 for fname in cs_files:
+    fpath = join(DIR, fname)
     warnings = StringIO() # to catch the warnings
     with RedirectStdStreams(stderr=warnings):
-        pd.read_csv(join(DIR, fname), 
+        pd.read_csv(fpath, 
                     sep='|',
                     encoding='latin_1',
                     header=None,
@@ -47,7 +48,12 @@ for fname in cs_files:
             warn_df['skipped_lines'] = warn_df['warns'].str.extract('Skipping line (\d+)', expand=True)
             warn_df['expected_cols'] = warn_df['warns'].str.extract('expected (\d+)', expand=True)
             warn_df['actual_cols'] = warn_df['warns'].str.extract('saw (\d+)', expand=True)
-            print(warn_df)
+
+            with open(fpath, encoding='latin_1') as f:
+                lines = f.readlines()
+                line_num = int(warn_df['skipped_lines'][0])
+                bad_line = lines[line_num - 1] # because lines are 1-indexed
+                print('bad_line is #',line_num,'...',bad_line)
 
     print(fname,"done","....on to the next one....")
 
