@@ -28,6 +28,7 @@ for fname in cs_files:
         pd.read_csv(join(DIR, fname), 
                     sep='|',
                     encoding='latin_1',
+                    header=None,
                     error_bad_lines=False,
                     warn_bad_lines=True)
     warnings.seek(0)
@@ -45,6 +46,7 @@ for fname in stat_files:
         pd.read_csv(join(DIR, fname), 
                     sep='|',
                     encoding='latin_1',
+                    header=None,
                     error_bad_lines=False,
                     warn_bad_lines=True)
     warnings.seek(0)
@@ -57,6 +59,7 @@ for fname in club_files:
         pd.read_csv(join(DIR, fname), 
                     sep='|',
                     encoding='latin_1',
+                    header=None,
                     error_bad_lines=False,
                     warn_bad_lines=True)
     warnings.seek(0)
