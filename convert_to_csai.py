@@ -34,10 +34,21 @@ for fname in cs_files:
     warnings.seek(0)
     warns = warnings.read()
     warnings.close()
-    # for whatever reason the warnings look like "b'Skipping...'\n"
-    # so chop off the weird stuff on the edges
-    warns = warns[2:len(warns)-2] if len(warns)>10 else ''
-    print("warnings??",warns)
+
+    if len(warns)>10:
+        # for whatever reason the warnings look like "b'Skipping...'\n"
+        # so chop off the weird stuff on the edges
+        warns = warns[2:len(warns)-2]
+        warns = warns.replace('\\n','\n')
+        with StringIO(warns) as w:
+            warn_df = pd.read_csv(w, sep='\n', header=None)
+            warn_df.columns=['warns']
+            # https://chrisalbon.com/python/data_wrangling/pandas_regex_to_create_columns/
+            warn_df['skipped_lines'] = warn_df['warns'].str.extract('Skipping line (\d+)', expand=True)
+            warn_df['expected_cols'] = warn_df['warns'].str.extract('expected (\d+)', expand=True)
+            warn_df['actual_cols'] = warn_df['warns'].str.extract('saw (\d+)', expand=True)
+            print(warn_df)
+
     print(fname,"done","....on to the next one....")
 
 for fname in stat_files:
@@ -50,7 +61,7 @@ for fname in stat_files:
                     error_bad_lines=False,
                     warn_bad_lines=True)
     warnings.seek(0)
-    print("warnings??",warnings.read())
+#    print("warnings??",warnings.read())
     print(fname,"done","....on to the next one....")
 
 for fname in club_files:
@@ -63,5 +74,5 @@ for fname in club_files:
                     error_bad_lines=False,
                     warn_bad_lines=True)
     warnings.seek(0)
-    print("warnings??",warnings.read())
+#    print("warnings??",warnings.read())
     print(fname,"done","....on to the next one....")
