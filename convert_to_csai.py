@@ -164,7 +164,7 @@ all_df[wierd_columns_mask != True][['id','q_format','a_format']].tail()
 # In[16]:
 
 
-pandas_profiling.ProfileReport(all_df).to_file('report.html')
+pandas_profiling.ProfileReport(all_df).to_file('index.html')
 
 
 # In[ ]:
