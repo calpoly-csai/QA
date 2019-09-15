@@ -129,7 +129,7 @@ def make_weird_columns_mask(df):
 wierd_columns_mask = make_weird_columns_mask(all_df)
 needs_to_be_fixed = all_df[wierd_columns_mask]
 print('needs_to_be_fixed.shape:', needs_to_be_fixed.shape)
-print('So there are {} rows that do not follow the standard STACIA_QA format'.format(needs_to_be_fixed.shape[0]))
+print('So there are {} rows with extraneous columns or bad formatting'.format(needs_to_be_fixed.shape[0]))
 
 
 # In[12]:
@@ -167,8 +167,51 @@ all_df[wierd_columns_mask != True][['id','q_format','a_format']].tail()
 pandas_profiling.ProfileReport(all_df).to_file('index.html')
 
 
-# In[ ]:
+# ## Let's remove more data after looking at the `ProfileReport`
+# The `ProfileReport` also suggests that the "notes" and "other" "other2" "other3" columns are not useful. There are few non-null values in those column and they may not even have been used for "notes." I labeled it as "notes" becuase it seemed that way on first glance. 
+
+# ## TODO: Consider manually looking through the bad data to extract something useful
+# 
+# ### But for now here's the `good data`
+
+# In[17]:
 
 
+good_df = all_df[wierd_columns_mask != True][['id', 'q_format', 'a_format']]
+print('good_df.shape:', good_df.shape)
+print('So there are {} rows with extraneous columns or bad formatting'.format(good_df.shape[0]))
 
+
+# In[18]:
+
+
+good_df.head()
+
+
+# In[19]:
+
+
+good_df.tail()
+
+
+# ## Save `good_data.csv` and `bad_data.csv`
+
+# In[20]:
+
+
+bad_df = needs_to_be_fixed
+
+
+# In[21]:
+
+
+with open('bad_data.csv', 'w') as f:
+    f.write(bad_df.to_csv())
+
+
+# In[22]:
+
+
+with open('good_data.csv', 'w') as f:
+    f.write(good_df.to_csv())
 
