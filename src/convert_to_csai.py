@@ -26,8 +26,11 @@ import pandas_profiling
 # In[2]:
 
 
-DATA_DIR = 'STACIA_QA'
-DIR = join(getcwd(), DATA_DIR)
+DATA_DIR = join("..", "STACIA_QA")
+CSV_OUT_DIR = join("..", "csv_outputs")
+BAD_CSV_FILE_PATH = join(CSV_OUT_DIR, 'bad_data.csv')
+GOOD_CSV_FILE_PATH = join(CSV_OUT_DIR, 'good_data.csv')
+INDEX_HTML_FILE_PATH = join("..", "index.html")
 
 
 # In[3]:
@@ -61,7 +64,7 @@ def make_data_frame_from_files(files):
     # https://docs.python.org/3/library/codecs.html#standard-encodings
     df = pd.DataFrame()
     for fname in files:
-        fpath = join(DIR, fname)
+        fpath = join(DATA_DIR, fname)
         to_concat = [df]
         to_concat.append(
             pd.read_csv(fpath,
@@ -164,7 +167,7 @@ all_df[wierd_columns_mask != True][['id','q_format','a_format']].tail()
 # In[16]:
 
 
-pandas_profiling.ProfileReport(all_df).to_file('index.html')
+pandas_profiling.ProfileReport(all_df).to_file(INDEX_HTML_FILE_PATH)
 
 
 # ## Let's remove more data after looking at the `ProfileReport`
@@ -205,13 +208,13 @@ bad_df = needs_to_be_fixed
 # In[21]:
 
 
-with open('bad_data.csv', 'w') as f:
+with open(BAD_CSV_FILE_PATH, 'w') as f:
     f.write(bad_df.to_csv())
 
 
 # In[22]:
 
 
-with open('good_data.csv', 'w') as f:
+with open(GOOD_CSV_FILE_PATH, 'w') as f:
     f.write(good_df.to_csv())
 
